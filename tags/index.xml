@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shuai Zhou</copyright><lastBuildDate>Mon, 30 Dec 2019 16:00:00 -0500</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/images/icon_hu7f79c2d83f965bb7f72f542dedaa1813_194651_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>ACS</title>
+      <link>/tags/acs/</link>
+      <pubDate>Mon, 30 Dec 2019 16:00:00 -0500</pubDate>
+      <guid>/tags/acs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>American Community Survey</title>
+      <link>/tags/american-community-survey/</link>
+      <pubDate>Mon, 30 Dec 2019 16:00:00 -0500</pubDate>
+      <guid>/tags/american-community-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>county</title>
+      <link>/tags/county/</link>
+      <pubDate>Mon, 30 Dec 2019 16:00:00 -0500</pubDate>
+      <guid>/tags/county/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rental price</title>
+      <link>/tags/rental-price/</link>
+      <pubDate>Mon, 30 Dec 2019 16:00:00 -0500</pubDate>
+      <guid>/tags/rental-price/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United States</title>
+      <link>/tags/united-states/</link>
+      <pubDate>Mon, 30 Dec 2019 16:00:00 -0500</pubDate>
+      <guid>/tags/united-states/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

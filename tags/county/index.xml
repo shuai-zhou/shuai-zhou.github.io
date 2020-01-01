@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>county | Shuai Zhou</title>
+    <link>/tags/county/</link>
+      <atom:link href="/tags/county/index.xml" rel="self" type="application/rss+xml" />
+    <description>county</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shuai Zhou</copyright><lastBuildDate>Mon, 30 Dec 2019 16:00:00 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu7f79c2d83f965bb7f72f542dedaa1813_194651_512x512_fill_lanczos_center_2.png</url>
+      <title>county</title>
+      <link>/tags/county/</link>
+    </image>
+    
+    <item>
+      <title>2018 Rental Price across Counties in the United States</title>
+      <link>/post/2019-12-31-rentprice/</link>
+      <pubDate>Mon, 30 Dec 2019 16:00:00 -0500</pubDate>
+      <guid>/post/2019-12-31-rentprice/</guid>
+      <description>&lt;p&gt;The map shows the gross rent across counties using data from American Community Survey (ACS) 2014-2018 (5-Year Estimates).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
