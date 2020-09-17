@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shuai Zhou</copyright><lastBuildDate>Mon, 30 Dec 2019 16:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shuai Zhou</copyright><lastBuildDate>Wed, 16 Sep 2020 13:00:00 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu7f79c2d83f965bb7f72f542dedaa1813_194651_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hufbd1322484d35511697e49829396b8f0_496666_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>activity space</title>
+      <link>/tags/activity-space/</link>
+      <pubDate>Wed, 16 Sep 2020 13:00:00 -0400</pubDate>
+      <guid>/tags/activity-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gps2space</title>
+      <link>/tags/gps2space/</link>
+      <pubDate>Wed, 16 Sep 2020 13:00:00 -0400</pubDate>
+      <guid>/tags/gps2space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Wed, 16 Sep 2020 13:00:00 -0400</pubDate>
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shared space</title>
+      <link>/tags/shared-space/</link>
+      <pubDate>Wed, 16 Sep 2020 13:00:00 -0400</pubDate>
+      <guid>/tags/shared-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spatial</title>
+      <link>/tags/spatial/</link>
+      <pubDate>Wed, 16 Sep 2020 13:00:00 -0400</pubDate>
+      <guid>/tags/spatial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ACS</title>

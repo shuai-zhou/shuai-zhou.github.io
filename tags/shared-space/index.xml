@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shared space | Shuai Zhou</title>
+    <link>/tags/shared-space/</link>
+      <atom:link href="/tags/shared-space/index.xml" rel="self" type="application/rss+xml" />
+    <description>shared space</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shuai Zhou</copyright><lastBuildDate>Wed, 16 Sep 2020 13:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hufbd1322484d35511697e49829396b8f0_496666_512x512_fill_lanczos_center_2.png</url>
+      <title>shared space</title>
+      <link>/tags/shared-space/</link>
+    </image>
+    
+    <item>
+      <title>Intro to GPS2space</title>
+      <link>/post/20200916gps2space/</link>
+      <pubDate>Wed, 16 Sep 2020 13:00:00 -0400</pubDate>
+      <guid>/post/20200916gps2space/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;GPS2space&lt;/strong&gt; is an open-source Python library for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compiling spatial data from raw GPS lat/long coordinates&lt;/li&gt;
+&lt;li&gt;Constructing Buffer- and Convex hull-based activity space and shared space at different time scales&lt;/li&gt;
+&lt;li&gt;Speeding up nearest distance query using cKDTree method (currently only support Point-Point nearest distance query)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See &lt;a href=&#34;https://gps2space.readthedocs.io/en/latest/index.html&#34;&gt;documentation&lt;/a&gt; for more information&lt;/p&gt;
+&lt;h2 id=&#34;load-libraries&#34;&gt;Load libraries&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;%matplotlib inline
+
+import pandas as pd
+import geopandas as gpd
+import matplotlib.pyplot as plt
+
+from gps2space import geodf
+from gps2space import space
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;load-data&#34;&gt;Load data&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;df = pd.read_csv(&#39;../data/example.csv&#39;)
+gdf = geodf.df_to_gdf(df, x=&#39;longitude&#39;, y=&#39;latitude&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;construct-person-time&#34;&gt;Construct person-time&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;gdf[&#39;timestamp&#39;] = pd.to_datetime(gdf[&#39;timestamp&#39;], infer_datetime_format=True)
+gdf[&#39;week&#39;] = gdf[&#39;timestamp&#39;].dt.week
+
+gdf[&#39;person_week&#39;] = gdf[&#39;pid&#39;].astype(str) + &#39;_&#39; + gdf[&#39;week&#39;].astype(str)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;gdf.head()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div&gt;
+&lt;style scoped&gt;
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+&lt;pre&gt;&lt;code&gt;.dataframe tbody tr th {
+    vertical-align: top;
+}
+
+.dataframe thead th {
+    text-align: right;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;/style&gt;&lt;/p&gt;
+&lt;table border=&#34;1&#34; class=&#34;dataframe&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr style=&#34;text-align: right;&#34;&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;pid&lt;/th&gt;
+      &lt;th&gt;timestamp&lt;/th&gt;
+      &lt;th&gt;latitude&lt;/th&gt;
+      &lt;th&gt;longitude&lt;/th&gt;
+      &lt;th&gt;geometry&lt;/th&gt;
+      &lt;th&gt;week&lt;/th&gt;
+      &lt;th&gt;person_week&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;0&lt;/th&gt;
+      &lt;td&gt;P2&lt;/td&gt;
+      &lt;td&gt;2020-04-27 10:42:22.162176000&lt;/td&gt;
+      &lt;td&gt;40.993799&lt;/td&gt;
+      &lt;td&gt;-76.669419&lt;/td&gt;
+      &lt;td&gt;POINT (-76.66942 40.99380)&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;P2_18&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1&lt;/th&gt;
+      &lt;td&gt;P2&lt;/td&gt;
+      &lt;td&gt;2020-06-02 01:12:45.308505600&lt;/td&gt;
+      &lt;td&gt;39.946904&lt;/td&gt;
+      &lt;td&gt;-78.926234&lt;/td&gt;
+      &lt;td&gt;POINT (-78.92623 39.94690)&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;P2_23&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2&lt;/th&gt;
+      &lt;td&gt;P2&lt;/td&gt;
+      &lt;td&gt;2020-05-08 23:47:33.718185600&lt;/td&gt;
+      &lt;td&gt;41.237403&lt;/td&gt;
+      &lt;td&gt;-79.252317&lt;/td&gt;
+      &lt;td&gt;POINT (-79.25232 41.23740)&lt;/td&gt;
+      &lt;td&gt;19&lt;/td&gt;
+      &lt;td&gt;P2_19&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;3&lt;/th&gt;
+      &lt;td&gt;P2&lt;/td&gt;
+      &lt;td&gt;2020-04-26 14:31:12.100310400&lt;/td&gt;
+      &lt;td&gt;41.991390&lt;/td&gt;
+      &lt;td&gt;-77.467769&lt;/td&gt;
+      &lt;td&gt;POINT (-77.46777 41.99139)&lt;/td&gt;
+      &lt;td&gt;17&lt;/td&gt;
+      &lt;td&gt;P2_17&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;4&lt;/th&gt;
+      &lt;td&gt;P2&lt;/td&gt;
+      &lt;td&gt;2020-03-31 15:53:27.777897600&lt;/td&gt;
+      &lt;td&gt;41.492674&lt;/td&gt;
+      &lt;td&gt;-76.542921&lt;/td&gt;
+      &lt;td&gt;POINT (-76.54292 41.49267)&lt;/td&gt;
+      &lt;td&gt;14&lt;/td&gt;
+      &lt;td&gt;P2_14&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;calculate-convex-hull-based-activity-space&#34;&gt;Calculate convex hull-based activity space&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;convex_space = space.convex_space(gdf, group=&#39;person_week&#39;, proj=2163)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;convex_space.head()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div&gt;
+&lt;style scoped&gt;
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+&lt;pre&gt;&lt;code&gt;.dataframe tbody tr th {
+    vertical-align: top;
+}
+
+.dataframe thead th {
+    text-align: right;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;/style&gt;&lt;/p&gt;
+&lt;table border=&#34;1&#34; class=&#34;dataframe&#34;&gt;
+  &lt;thead&gt;
+    &lt;tr style=&#34;text-align: right;&#34;&gt;
+      &lt;th&gt;&lt;/th&gt;
+      &lt;th&gt;person_week&lt;/th&gt;
+      &lt;th&gt;geometry&lt;/th&gt;
+      &lt;th&gt;convx_area&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;th&gt;0&lt;/th&gt;
+      &lt;td&gt;P1_1&lt;/td&gt;
+      &lt;td&gt;POLYGON ((-79.08352 40.61927, -78.64613 41.031...&lt;/td&gt;
+      &lt;td&gt;0.459119&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;1&lt;/th&gt;
+      &lt;td&gt;P1_10&lt;/td&gt;
+      &lt;td&gt;POLYGON ((-77.29803 39.81326, -78.33096 41.824...&lt;/td&gt;
+      &lt;td&gt;2.980511&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;2&lt;/th&gt;
+      &lt;td&gt;P1_11&lt;/td&gt;
+      &lt;td&gt;POINT (-80.05021 41.60526)&lt;/td&gt;
+      &lt;td&gt;0.000000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;3&lt;/th&gt;
+      &lt;td&gt;P1_12&lt;/td&gt;
+      &lt;td&gt;LINESTRING (-78.86727 41.79762, -75.39833 40.5...&lt;/td&gt;
+      &lt;td&gt;0.000000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th&gt;4&lt;/th&gt;
+      &lt;td&gt;P1_13&lt;/td&gt;
+      &lt;td&gt;POLYGON ((-79.36647 39.99230, -77.46196 41.851...&lt;/td&gt;
+      &lt;td&gt;1.425932&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;check-p1-and-p2-at-week-10&#34;&gt;Check P1 and P2 at week 10&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;p1_w10 = convex_space[convex_space[&#39;person_week&#39;]==&#39;P1_10&#39;]
+p2_w10 = convex_space[convex_space[&#39;person_week&#39;]==&#39;P2_10&#39;]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;share = gpd.overlay(p1_w10, p2_w10, how=&#39;intersection&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;ax = p1_w10.boundary.plot(edgecolor=&#39;green&#39;)
+p2_w10.boundary.plot(ax=ax,edgecolor=&#39;black&#39;)
+share.plot(ax=ax)
+plt.show();
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;share_space.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As shown in the figure:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The enclosed green line is the activity space for P1 at week 10&lt;/li&gt;
+&lt;li&gt;The enclosed black line is the activity space for P2 at week 10&lt;/li&gt;
+&lt;li&gt;The blue area is the shared space for P1 and P2 at week 10&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

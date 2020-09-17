@@ -5,9 +5,9 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shuai Zhou</copyright><lastBuildDate>Mon, 30 Dec 2019 16:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Shuai Zhou</copyright><lastBuildDate>Wed, 16 Sep 2020 13:00:00 -0400</lastBuildDate>
     <image>
-      <url>/images/icon_hu7f79c2d83f965bb7f72f542dedaa1813_194651_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hufbd1322484d35511697e49829396b8f0_496666_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Shuai Zhou</title>
       <link>/authors/shuai-zhou/</link>
-      <pubDate>Mon, 30 Dec 2019 16:00:00 -0500</pubDate>
+      <pubDate>Wed, 16 Sep 2020 13:00:00 -0400</pubDate>
       <guid>/authors/shuai-zhou/</guid>
       <description></description>
     </item>
@@ -25,7 +25,7 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a Ph.D. student in &lt;a href=&#34;https://aese.psu.edu/directory/sxz217&#34;&gt;Rural Sociology&lt;/a&gt; and &lt;a href=&#34;http://www.pop.psu.edu/directory/2136/sxz217&#34;&gt;Demography&lt;/a&gt;. My research interest is focused on Migration, Environmental Demography, and their impacts on the population, environment, and dynamics between them. I also do spatial analyses of poverty and educational inequality. I have strong backgrounds in statistical programming languages such as Stata and Python.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Ph.D. student in &lt;a href=&#34;https://aese.psu.edu/directory/sxz217&#34;&gt;Rural Sociology&lt;/a&gt; and &lt;a href=&#34;https://pop.psu.edu/people/szhou&#34;&gt;Demography&lt;/a&gt;. My research interest is focused on Migration, Environmental Demography, and their impacts on the population, environment, and dynamics between them. I also do spatial analyses of poverty and educational inequality. I have strong backgrounds in statistical programming languages such as Stata and Python.&lt;/p&gt;
 &lt;p&gt;Email: &lt;a href=&#34;mailto:szhou@psu.edu&#34;&gt;szhou@psu.edu&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Address: 312 Armsby Building, Curtin Rd, State College, PA 16801&lt;/p&gt;
 </description>
