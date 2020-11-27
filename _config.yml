@@ -30,7 +30,7 @@ twitter_username: ShuaiZhou312
 github_username:  shuai-zhou
 
 # Build settings
-theme: bulma-clean-theme
+# theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
