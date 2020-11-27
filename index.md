@@ -18,7 +18,7 @@ hero_darken: true
 <br/>
 
 <div align = "center">
-  <a href="mailto:sxz217@psu.edu" ><i class="fas fa-envelope big-icon" style="font-size:30px"></i></a>
+  <a href="mailto:sxz217@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:30px"></i></a>
     &ensp;
   <a href="https://twitter.com/ShuaiZhou312" target="_blank" rel="noopener"><i class="fab fa-twitter big-icon" style="font-size:30px"></i></a>
     &ensp;
@@ -35,9 +35,9 @@ I am a Ph.D. student in [Rural Sociology](https://aese.psu.edu/directory/sxz217)
 
 ## Contact
 
-Email: szhou@psu.edu
+Email: <u>szhou@psu.edu<u>
 
-Address: 312 Armsby Building, Curtin Rd, State College, PA 16801
+Address: <u>312 Armsby Building, Curtin Rd, State College, PA 16801<u>
 
 
 
