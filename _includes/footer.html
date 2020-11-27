@@ -1,0 +1,22 @@
+<footer class="footer">
+    <div class="container">
+        
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <div class="content is-small has-text-centered">
+            <p class="">Shuai Zhou &middot; 2020 &middot; V20201125</a>
+			<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=111af7&w=600&t=tt&d=SCPUqwnrleFcfo2hIFoDvMHLBZ6-Fe_dHWE8QC8xUak&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=000000"></script>
+			</p>
+        </div>
+    </div>
+</footer>
