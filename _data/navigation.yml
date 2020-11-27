@@ -1,17 +1,17 @@
 - name: Research
-  link: /research/
+  link: /research
 - name: Publication
-  link: /publication/
+  link: /publication
 - name: Teaching
-  link: /teaching/
+  link: /teaching
 - name: Project
   link: /#
   dropdown:
     - name: GPS2space
       link: https://gps2space.readthedocs.io/en/latest/
     - name: WebScraper
-      link: /webscraper/
+      link: /webscraper
 - name: Post
-  link: /post/
+  link: /post
 - name: CV
   link: /cv
