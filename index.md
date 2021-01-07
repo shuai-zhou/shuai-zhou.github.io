@@ -38,6 +38,10 @@ I am a Ph.D. student in [Rural Sociology](https://aese.psu.edu/directory/sxz217)
 Email: <u>szhou@psu.edu<u>
 
 Address: <u>312 Armsby Building, Curtin Rd, State College, PA 16801<u>
+  
+## Skill
+
+Python, Stata, Markdown, HTML
 
 
 
