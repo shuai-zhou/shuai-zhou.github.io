@@ -6,7 +6,9 @@ hero_height: is-small
 hero_darken: true
 ---
 
-**Penn State University**
+#### Penn State University
 
-- Guest lecture, Introductory to Rural Sociology, January 28, 2020
-- Guest lecture, Introductory to Stata, September 28, 2020
+- <p align="justify">Guest lecture, Introductory to Rural Sociology, January 28, 2020</p>
+
+- <p align="justify">Guest lecture, Introductory to Stata, September 28, 2020</p>
+

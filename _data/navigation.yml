@@ -2,10 +2,12 @@
   link: /research
 - name: Publication
   link: /publication
+- name: Presentation
+  link: /presentation
 - name: Teaching
   link: /teaching
 - name: Project
-  link: /#
+  link: /project
   dropdown:
     - name: GPS2space
       link: https://gps2space.readthedocs.io/en/latest/

@@ -11,7 +11,7 @@ hero_darken: true
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
-    <h2 class="blogyear">{{ y}}</h2>
+    <h3 class="blogyear">{{ y}}</h3>
   {% endif %}
 <li class="archiveposturl"><span><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></span><br/>
 <span class = "postlower">
