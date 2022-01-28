@@ -15,26 +15,25 @@ hero_darken: true
 
 <!-- <div align = "center"><img src = "images/favicon.png" width = "200"/></div> -->
 <!-- <img style="float: right;" width="200" height="200" src="images/favicon.png"> -->
-![favicon](./images/shuaizhou.jpg){: height="200px" width="200px" style="float:right; padding-left:20px"}
-
+![favicon](./images/shuaizhou.jpg){: height="186px" width="186px" style="float:right; padding-left:20px"}
 
 
 #### Bio sketch
 
-<p align="justify">Shuai Zhou is a Ph.D. student in <a href="https://pop.psu.edu/people/szhou" target="_blank">Demography</a> and <a href="https://aese.psu.edu/directory/sxz217" target="_blank">Rural Sociology</a> at the <a href="https://www.psu.edu/" target="_blank">Pennsylvania State University</a>.</p>
+<p align="justify">Shuai Zhou is a Ph.D. candidate in <a href="https://pop.psu.edu/people/szhou" target="_blank">Demography</a> and <a href="https://aese.psu.edu/directory/sxz217" target="_blank">Rural Sociology</a> at the <a href="https://www.psu.edu/" target="_blank">Pennsylvania State University</a>.</p>
 
 <p align="justify">Zhou is a trained demographer and rural sociologist who also has expertise in geospatial analytics. His research interests include planned relocation, environmental migration, and computational and spatial analysis of big data using open source solutions on High Performance Computing (HPC) platforms.</p>
 
 <div align = "right">
-  <a href="mailto:sxz217@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:22px"></i></a>
+  <a href="mailto:sxz217@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:21px"></i></a>
     &ensp;
-  <a href="https://twitter.com/ShuaiZhou312" target="_blank" rel="noopener"><i class="fab fa-twitter big-icon" style="font-size:25px"></i></a>
+  <a href="https://twitter.com/ShuaiZhou312" target="_blank" rel="noopener"><i class="fab fa-twitter big-icon" style="font-size:21px"></i></a>
     &ensp;
-  <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=1XVm2t0AAAAJ" target="_blank" rel="noopener"><i class="ai ai-google-scholar" style="font-size:25px"></i></a>
+  <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=1XVm2t0AAAAJ" target="_blank" rel="noopener"><i class="ai ai-google-scholar" style="font-size:21px"></i></a>
     &ensp;
-  <a href="https://github.com/shuai-zhou" target="_blank" rel="noopener"><i class="fab fa-github big-icon" style="font-size:25px"></i></a>
+  <a href="https://github.com/shuai-zhou" target="_blank" rel="noopener"><i class="fab fa-github big-icon" style="font-size:21px"></i></a>
     &ensp;
-  <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv" style="font-size:25px"></i></a>
+  <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv" style="font-size:21px"></i></a>
 </div>
 
 #### Open science
@@ -46,9 +45,17 @@ hero_darken: true
 
 #### Contact information
 
-Email: <u>szhou@psu.edu<u>
+Email: <u>sxz217@psu.edu<u>
 
 Address: <u>801 Oswald Tower, University Park, PA 16802<u>
 
-&emsp; &emsp; &emsp; &ensp; <u>312 Armsby Building, University Park, PA 16802<u>
-  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &thinsp;<u>312 Armsby Building, University Park, PA 16802<u>
+
+<!-- Spaces in markdown: https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github
+only one space » either use &nbsp; or just hit Spacebar (2nd one is good choice in this case)
+more than one space » use &nbsp; + space (for 2 consecutive spaces) -->
+
+<!-- Different types of space, e.g., half space: https://stackoverflow.com/questions/8515365/are-there-other-whitespace-codes-like-nbsp-for-half-spaces-em-spaces-en-space -->
+
+**Note:** This website may not provide up-to-date information, please contact me for recent work and activity.
+
