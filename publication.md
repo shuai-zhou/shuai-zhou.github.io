@@ -13,7 +13,8 @@ hero_darken: true
 #### Peer-reviewed articles
 
 <p align="justify">
-	Li, Yanling, Zita Oravecz, Shuai Zhou<strong>*</strong>, Yosef Bodovski, Ian J. Barnett, Naomi P. Friedman, Guangqing Chi, Scott I. Vrieze, and Sy-Miin Chow. (accepted). "Forecasting Adolescent Alcohol Use with A Bayesian Regime-switching Autoregressive Model with Spatial Covariates." <i>Psychometrika</i>.
+	Li, Yanling, Zita Oravecz, Shuai Zhou<strong>*</strong>, Yosef Bodovski, Ian J. Barnett, Naomi P. Friedman, Guangqing Chi, Scott I. Vrieze, and Sy-Miin Chow. (accepted). "Bayesian Forecasting with a Regime-Switching Zero-Inflated Multilevel Poisson Regression Model: An Application to Adolescent Alcohol Use with Spatial Covariates." <i>Psychometrika</i>. &nbsp;
+	<a href="https://link.springer.com/article/10.1007%2Fs11336-021-09831-9" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
 <p align="justify">
