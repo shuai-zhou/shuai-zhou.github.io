@@ -43,6 +43,10 @@ hero_darken: true
 <p align="justify">
 	Zhou, Shuai<strong>*</strong>, Guangqing Chi, Huanguang Qiu, Zhen Lei, Erica A.H. Smithwick, and Jiquan Chen. "Subsidized Relocation and the Willingness to Move: Evidence from the Targeted Poverty Alleviation Project in China."
 </p>
+
+<p align="justify">
+	Anderson, Cory, Shuai Zhou, and Guangqing Chi. "Population-Wide Vaccination Hesitancy among the Amish: A County-Level Study of COVID-19 Vaccine Adoption."
+</p>
 <br>
 
 #### Manuscripts in preparation
@@ -53,6 +57,10 @@ hero_darken: true
 
 <p align="justify">
 	Zhou, Shuai<strong>*</strong> and Guangqing Chi. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020."
+</p>
+
+<p align="justify">
+	Anderson, Cory, George Hayward, Shuai Zhou, Guangqing Chi, and Mary Shenk. "Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?"
 </p>
 <br>
 
