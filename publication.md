@@ -60,7 +60,7 @@ hero_darken: true
 </p>
 
 <p align="justify">
-	Anderson, Cory, George Hayward, Shuai Zhou, Guangqing Chi, and Mary Shenk. "Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?"
+	Anderson, Cory, George M. Hayward, Shuai Zhou, Guangqing Chi, and Mary Shenk. "Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?"
 </p>
 <br>
 
