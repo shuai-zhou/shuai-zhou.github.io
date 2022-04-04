@@ -35,11 +35,10 @@ hero_darken: true
 
 #### Poster
 <p align="justify">Zhou, Shuai, Guangqing Chi, and Brian C. Thiede. 2022. "Migration and Climate Change and Variability in the Contiguous United States at the County Level, 1970-2010." 2022 Annual Meeting of the Population Association of America, April 6 – 9, 2022, Atlanta, GA. &nbsp;
-	<a href="/downloads/conferences/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+	<a href="/downloads/conferences/Poster_PAA2022.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
-<p align="justify">Zhou, Shuai and Guangqing Chi. 2020. "Land Rental in Rural China: The Impacts of Demographics, Household Economy, Land Endowment, and Social Welfare, 2012 – 2016." 2020 Annual Meeting of the Population Association of America, April 22 – 25, 2020, Washington, DC. &nbsp;
-	<a href="/downloads/conferences/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2020. "Land Rental in Rural China: The Impacts of Demographics, Household Economy, Land Endowment, and Social Welfare, 2012 – 2016." 2020 Annual Meeting of the Population Association of America, April 22 – 25, 2020, Washington, DC.
 </p>
 <br>
 
