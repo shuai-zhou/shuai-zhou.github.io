@@ -18,7 +18,7 @@ hero_darken: true
 
 #### Environmental migration in the US
 
-![envmigus](./images/env-mig-us.jpg){: height="75px" width="300px" style="float:right; padding-left:10px"}
+![envmigus](./images/env-mig-us.png){: height="75px" width="300px" style="float:right; padding-left:10px"}
 
 <p align="justify">An estimate of about 200 million people will be displaced because of climate change by 2050. Although much work has been done in exploring the environment-migration linkages, a consensus on the effect of environmental factors on migration has not been widely accepted and the mechanisms remain unclear, particularly for slow-onset environmental variabilities such as precipitation and temperature anomalies whose effects are usually less sensitive to people involved and take a long time to unfold. This research theme investigates the impacts of temperature and precipitation variabilities on migration from longitudinal and spatial-temporal perspectives in the US across the last five decades (1970-2020) using data from multiple sources including the Net Migration Patterns for US Counties, decennial census, American Community Survey (ACS), Internal Revenue Service (IRS) and high-resolution climate data from the National Oceanic and Atmospheric Administration (NOAA) and Parameter-elevation Regressions on Independent Slopes Model (PRISM).</p>
 <br>
