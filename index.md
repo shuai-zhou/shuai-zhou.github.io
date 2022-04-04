@@ -40,7 +40,7 @@ hero_darken: true
 
 <p align="justify">Zhou advocates open science and believes that reproducibility makes real science. For this reason, Zhou provides data and codes for most of his empirical work as long as data sources allow to do so.</p>
 
-<p align="justify">Zhou also writes tools for his research and make them publicly available under open source license. He develops <a href="https://gps2space.readthedocs.io/en/latest/index.html" target="_blank">GPS2space</a>, a Python library for building spatial data and constructing buffer- and convex hull-based activity space and shared space from raw GPS data.</p>
+<p align="justify">Zhou also writes tools for his research and makes them publicly available under open source license. He develops <a href="https://gps2space.readthedocs.io/en/latest/index.html" target="_blank">GPS2space</a>, a Python library for building spatial data and constructing buffer- and convex hull-based activity space and shared space from raw GPS data.</p>
 <br/>
 
 #### Contact information
