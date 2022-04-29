@@ -8,6 +8,10 @@ hero_darken: true
 
 #### Presentation
 
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 84th Annual Meeting of the Rural Sociological Society, August 04 – 07, 2022, Westminster, CO. &nbsp;
+	<!-- <a href="/downloads/conferences/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> -->
+</p>
+
 <p align="justify">Anderson, Cory, George M. Hayward, Shuai Zhou, Guangqing Chi, and Mary K. Shenk. 2022. "Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?" 2022 Annual Meeting of the Population Association of America, April 6 – 9, 2022, Atlanta, GA. &nbsp;
 	<!-- <a href="/downloads/conferences/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> -->
 </p>
