@@ -13,7 +13,7 @@ hero_darken: true
 #### Peer-reviewed articles
 
 <p align="justify">
-	Li, Yanling, Zita Oravecz, Shuai Zhou<strong>*</strong>, Yosef Bodovski, Ian J. Barnett, Naomi P. Friedman, Guangqing Chi, Scott I. Vrieze, and Sy-Miin Chow. (accepted). "Bayesian Forecasting with a Regime-Switching Zero-Inflated Multilevel Poisson Regression Model: An Application to Adolescent Alcohol Use with Spatial Covariates." <i>Psychometrika</i>. &nbsp;
+	Li, Yanling, Zita Oravecz, Shuai Zhou<strong>*</strong>, Yosef Bodovski, Ian J. Barnett, Naomi P. Friedman, Guangqing Chi, Scott I. Vrieze, and Sy-Miin Chow. 2022. "Bayesian Forecasting with a Regime-Switching Zero-Inflated Multilevel Poisson Regression Model: An Application to Adolescent Alcohol Use with Spatial Covariates." <i>Psychometrika</i>. &nbsp;
 	<a href="https://link.springer.com/article/10.1007%2Fs11336-021-09831-9" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
@@ -61,6 +61,10 @@ hero_darken: true
 
 <p align="justify">
 	Anderson, Cory, George M. Hayward, Shuai Zhou, Guangqing Chi, and Mary Shenk. "Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?"
+</p>
+
+<p align="justify">
+	Chi, Guangqing, Lara Fowler, Kathleen E. Halvorsen, Davin Holen, Lance Howe, Ekrem Korkut, Jessica Miller, Megan Mucioki, Heather Randell, Ann Tickamyer, Junjun Yin, and Shuai Zhou. “Climate impacts on Arctic Migration: A Review of the Evidence and Research Agenda.”
 </p>
 <br>
 
