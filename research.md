@@ -6,7 +6,7 @@ hero_height: is-small
 hero_darken: true
 ---
 
-<p align="justify">My research focuses on environmental migration including government-led planned relocation and individual migration because of slow- and rapid-onset environmental change. My research goals are to: (1) identify the hotspots of environmental changes and populations who are affected by such changes; (2) determine the pathways through which environmental changes trigger migration; (3) evaluate the impacts of environmental migration on a series of developmental indicators such as economic well-being, educational attainment, and health in my future research.</p>
+<p align="justify">My research focuses on environmental migration including government-led planned relocation and individual migration because of slow- and rapid-onset environmental change. My research goals are to: (1) identify the hotspots of environmental changes and populations affected by such changes; (2) determine the pathways through which environmental changes trigger migration; (3) evaluate the environmental impacts on a series of demographic outcomes and developmental indicators such as economic well-being, educational attainment, and health in his future research.</p>
 <br>
 
 #### Planned relocation in the era of climate change
