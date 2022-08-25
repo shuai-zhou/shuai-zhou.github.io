@@ -74,7 +74,7 @@ hero_darken: true
 </p>
 
 <p align="justify">
-	Chi, Guangqing, Lara Fowler, Kathleen E. Halvorsen, Davin Holen, Lance Howe, Ekrem Korkut, Jessica Miller, Megan Mucioki, Heather Randell, Ann Tickamyer, Junjun Yin, and Shuai Zhou. "Climate impacts on Arctic Migration: A Review of the Evidence and Research Agenda."
+	Chi, Guangqing, Ann Tickamyer, Megan Mucioki, Shuai Zhou, Lara Fowler, Kathleen E. Halvorsen, Davin Holen, Lance Howe, Ekrem Korkut, Jessica Miller, Heather Randell, and Junjun Yin. "Climate Impacts on Arctic Migration: Existing Evidence and Research Agenda."
 </p>
 <br>
 
