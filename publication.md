@@ -47,10 +47,6 @@ hero_darken: true
 </p>
 
 <p align="justify">
-	Zhou, Shuai<strong>*</strong> and Guangqing Chi. "Farmland Renting in Rural China: The Impacts of Household Demographics and Livelihood Strategies, 2012 – 2016."
-</p>
-
-<p align="justify">
 	Zhou, Shuai<strong>*</strong>, Guangqing Chi, Huanguang Qiu, Zhen Lei, Erica A.H. Smithwick, and Jiquan Chen. "Subsidized Relocation and the Willingness to Move: Evidence from the Targeted Poverty Alleviation Project in China."
 </p>
 
