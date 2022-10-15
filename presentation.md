@@ -37,7 +37,7 @@ hero_darken: true
 </p>
 <br>
 
-#### Invited talk
+#### Invited presentation
 
 <p align="justify">Zhou, Shuai. 2022. "Migration due to Climate Change." Geo-Resolution 2022—Geospatial Perspectives on Climate Change: Predicting and Mitigating Effects at Saint Louis University, September 28, 2022, St. Louis, MO. &nbsp;
 </p>
