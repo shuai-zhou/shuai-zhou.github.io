@@ -6,7 +6,7 @@ hero_height: is-small
 hero_darken: true
 ---
 
-#### Presentation
+#### Conference presentation
 
 <p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 84th Annual Meeting of the Rural Sociological Society, August 04 – 07, 2022, Westminster, CO. &nbsp;
 	<a href="/downloads/conferences/Present_RSS2022.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
