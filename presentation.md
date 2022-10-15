@@ -6,7 +6,7 @@ hero_height: is-small
 hero_darken: true
 ---
 
-#### Conference presentation
+#### Conference presentations
 
 <p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 84th Annual Meeting of the Rural Sociological Society, August 04 – 07, 2022, Westminster, CO. &nbsp;
 	<a href="/downloads/conferences/Present_RSS2022.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
@@ -37,7 +37,7 @@ hero_darken: true
 </p>
 <br>
 
-#### Invited presentation
+#### Invited talks
 
 <p align="justify">Zhou, Shuai. 2022. "Migration due to Climate Change." Geo-Resolution 2022—Geospatial Perspectives on Climate Change: Predicting and Mitigating Effects at Saint Louis University, September 28, 2022, St. Louis, MO. &nbsp;
 </p>
@@ -55,7 +55,7 @@ hero_darken: true
 </p>
 <br>
 
-#### Poster
+#### Conference posters
 <p align="justify">Zhou, Shuai, Guangqing Chi, and Brian C. Thiede. 2022. "Migration and Climate Change and Variability in the Contiguous United States at the County Level, 1970-2010." 2022 Annual Meeting of the Population Association of America, April 6 – 9, 2022, Atlanta, GA. &nbsp;
 	<a href="/downloads/conferences/Poster_PAA2022.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
