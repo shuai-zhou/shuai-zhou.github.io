@@ -24,17 +24,33 @@ hero_darken: true
 
 <p align="justify">Zhou is a trained demographer and rural sociologist who also has expertise in geospatial analytics. His research interests include planned relocation, environmental migration, and computational and spatial analysis of big data using open source solutions on High Performance Computing (HPC) platforms.</p>
 
-<div align = "right">
+<p align="justify">
+<a href="mailto:sxz217@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:21px"></i></a>
+    &ensp;
+<a href="https://twitter.com/ShuaiZhou312" target="_blank" rel="noopener"><i class="fab fa-twitter big-icon" style="font-size:21px"></i></a>
+    &ensp;
+<a href="https://scholar.google.co.uk/citations?hl=en&amp;user=1XVm2t0AAAAJ" target="_blank" rel="noopener"><i class="ai ai-google-scholar big-icon" style="font-size:21px"></i></a>
+    &ensp;
+<a href="https://orcid.org/0000-0001-6555-4088" target="_blank" rel="noopener"><i class="fab fa-orcid big-icon" style="font-size:21px"></i></a>
+    &ensp;
+<a href="https://github.com/shuai-zhou" target="_blank" rel="noopener"><i class="fab fa-github big-icon" style="font-size:21px"></i></a>
+    &ensp;
+<a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv big-icon" style="font-size:21px"></i></a>
+</p>
+
+<!-- <div align = "right">
   <a href="mailto:sxz217@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:21px"></i></a>
     &ensp;
   <a href="https://twitter.com/ShuaiZhou312" target="_blank" rel="noopener"><i class="fab fa-twitter big-icon" style="font-size:21px"></i></a>
     &ensp;
-  <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=1XVm2t0AAAAJ" target="_blank" rel="noopener"><i class="ai ai-google-scholar" style="font-size:21px"></i></a>
+  <a href="https://scholar.google.co.uk/citations?hl=en&amp;user=1XVm2t0AAAAJ" target="_blank" rel="noopener"><i class="ai ai-google-scholar big-icon" style="font-size:21px"></i></a>
+    &ensp;
+  <a href="https://orcid.org/0000-0001-6555-4088" target="_blank" rel="noopener"><i class="fab fa-orcid big-icon" style="font-size:21px"></i></a>
     &ensp;
   <a href="https://github.com/shuai-zhou" target="_blank" rel="noopener"><i class="fab fa-github big-icon" style="font-size:21px"></i></a>
     &ensp;
-  <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv" style="font-size:21px"></i></a>
-</div>
+  <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv big-icon" style="font-size:21px"></i></a>
+</div> -->
 
 #### Open science
 
