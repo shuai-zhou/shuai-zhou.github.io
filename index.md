@@ -35,7 +35,9 @@ hero_darken: true
     &ensp;
 <a href="https://github.com/shuai-zhou" target="_blank" rel="noopener"><i class="fab fa-github big-icon" style="font-size:21px"></i></a>
     &ensp;
-<a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv big-icon" style="font-size:21px"></i></a>
+<a href="https://www.linkedin.com/in/zhou-shuai/" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin-in" style="font-size:21px"></i></a>
+    &ensp;
+<a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv big-icon" style="font-size:22px"></i></a>
 </p>
 
 <!-- <div align = "right">
