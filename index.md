@@ -37,7 +37,7 @@ hero_darken: true
     &ensp;
 <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv big-icon" style="font-size:21px"></i></a>
     &ensp;
-<a href="https://www.linkedin.com/in/zhou-shuai/" target="_blank" rel="noopener"><i class="fab fa-linkedin" style="font-size:21px"></i></a>
+<a href="https://www.linkedin.com/in/zhou-shuai/" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>
 </p>
 
 <!-- <div align = "right">
