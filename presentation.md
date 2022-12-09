@@ -8,7 +8,10 @@ hero_darken: true
 
 #### Conference presentations
 
-<p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 84th Annual Meeting of the Rural Sociological Society, August 04 – 07, 2022, Westminster, CO. &nbsp;
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2023. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 2023 Annual Meeting of the Population Association of America, April 12 – 15, 2023, New Orleans, Louisiana. (Forthcoming)
+</p>
+
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental and Sociodemographic Factors in the United States: A Multi-level Approach." 2022 Annual Meeting of the Rural Sociological Society, August 04 – 07, 2022, Westminster, CO. &nbsp;
 	<a href="/downloads/conferences/Present_RSS2022.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
@@ -20,7 +23,7 @@ hero_darken: true
 	<a href="/downloads/conferences/Present_RSS2021.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
-<p align="justify">Zhou, Shuai and Guangqing Chi. 2019. "Land Rental in Rural China: The Impacts of Demographics, Household Economy, Land Endowment, and Social Welfare, 2012-2016." 2019 Annual Meeting of the Rural Sociological Society, August 07 – 10, 2019, Richmond, VA. &nbsp;
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2019. "Land Rental in Rural China: The Impacts of Demographics, Household Economy, Land Endowment, and Social Welfare, 2012 – 2016." 2019 Annual Meeting of the Rural Sociological Society, August 07 – 10, 2019, Richmond, VA. &nbsp;
 	<a href="/downloads/conferences/Present_RSS2019.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
@@ -28,11 +31,11 @@ hero_darken: true
 	<a href="/downloads/conferences/Present_PAA2019.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
-<p align="justify">Zhou, Shuai, Guangqing Chi, Brian C. Thiede, Zhen Lei, and Huanguang Qiu. 2018. "Subsidized Relocation and the Willingness to Move: The First Look at the Targeted Poverty Alleviation Project in China." 81st Annual Meeting of the Rural Sociological Society, July 26 – 29, 2018, Portland, OR. &nbsp;
+<p align="justify">Zhou, Shuai, Guangqing Chi, Brian C. Thiede, Zhen Lei, and Huanguang Qiu. 2018. "Subsidized Relocation and the Willingness to Move: The First Look at the Targeted Poverty Alleviation Project in China." 2018 Annual Meeting of the Rural Sociological Society, July 26 – 29, 2018, Portland, OR. &nbsp;
 	<a href="/downloads/conferences/Present_RSS2018.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
-<p align="justify">Zhou, Shuai. 2017. "Family Economy, Land Endowment, Social Security and Land Rent Behavior of Village Farmers: An Empirical Research Based on Logistic Model." 5th Annual Rural Studies Graduate Student Conference, October 27 – 28, 2017, University Park, PA. &nbsp;
+<p align="justify">Zhou, Shuai. 2017. "Family Economy, Land Endowment, Social Security and Land Rent Behavior of Village Farmers: An Empirical Research Based on Logistic Model." 2017 Annual Rural Studies Graduate Student Conference, October 27 – 28, 2017, University Park, PA. &nbsp;
 	<!-- <a href="/downloads/conferences/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> -->
 </p>
 <br>
@@ -56,7 +59,10 @@ hero_darken: true
 <br>
 
 #### Conference posters
-<p align="justify">Zhou, Shuai, Guangqing Chi, and Brian C. Thiede. 2022. "Migration and Climate Change and Variability in the Contiguous United States at the County Level, 1970-2010." 2022 Annual Meeting of the Population Association of America, April 6 – 9, 2022, Atlanta, GA. &nbsp;
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental and Sociodemographic Factors in the United States: A Multi-level Analysis, 2010 – 2020." Population and Climate Change: The Defining Relationship of the 21st Century, November 30 – December 2, 2022, Vienna, Austria.
+</p>
+
+<p align="justify">Zhou, Shuai, Guangqing Chi, and Brian C. Thiede. 2022. "Migration and Climate Change and Variability in the Contiguous United States at the County Level, 1970 – 2010." 2022 Annual Meeting of the Population Association of America, April 6 – 9, 2022, Atlanta, GA. &nbsp;
 	<a href="/downloads/conferences/Poster_PAA2022.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
