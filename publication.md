@@ -66,11 +66,15 @@ hero_darken: true
 </p>
 
 <p align="justify">
+	Hou, Qing, Shuai Zhou, and Guangqing Chi. "The Factors Affecting Electric Vehicle Adoption in the United States, 2016 – 2021."
+</p>
+
+<p align="justify">
 	Anderson, Cory, George M. Hayward, Shuai Zhou, Guangqing Chi, and Mary Shenk. "Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?"
 </p>
 
 <p align="justify">
-	Chi, Guangqing, Ann Tickamyer, Megan Mucioki, Shuai Zhou, Lara Fowler, Kathleen E. Halvorsen, Davin Holen, Lance Howe, Ekrem Korkut, Jessica Miller, Heather Randell, and Junjun Yin. "Climate Impacts on Arctic Migration: Existing Evidence and Research Agenda."
+	Chi, Guangqing, Megan Mucioki, Shuai Zhou, Jessica Miller, Ekrem Korkut, Lance Howe, Junjun Yin, Davin Holen, Heather Randell, Kathleen E. Halvorsen, Lara Fowler, James Ford, and Ann Tickamyer. "Climate Impacts on Arctic Migration: Existing Evidence and Research Agenda."
 </p>
 <br>
 
