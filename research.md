@@ -23,6 +23,13 @@ hero_darken: true
 <p align="justify">An estimate of about 200 million people will be displaced because of climate change by 2050. Although much work has been done in exploring the environment-migration linkages, a consensus on the effect of environmental factors on migration has not been widely accepted and the mechanisms remain unclear, particularly for slow-onset environmental variabilities such as precipitation and temperature anomalies whose effects are usually less sensitive to people involved and take a long time to unfold. This research theme investigates the impacts of temperature and precipitation variabilities on migration from longitudinal and spatial-temporal perspectives in the US across the last five decades (1970-2020) using data from multiple sources including the Net Migration Patterns for US Counties, decennial census, American Community Survey (ACS), Internal Revenue Service (IRS) and high-resolution climate data from the National Oceanic and Atmospheric Administration (NOAA) and Parameter-elevation Regressions on Independent Slopes Model (PRISM).</p>
 <br>
 
+#### Environmental health
+
+![envhealth](./images/env-health-us.png){: height="75px" width="300px" style="float:right; padding-left:10px"}
+
+<p align="justify">Literature from demographic studies and public health research has demonstrated that environmental exposures lead to changes in reproductive health, mortality, and other health outcomes. Increasing mean temperature, extreme heat and precipitation, among others, have made climate less predictable, causing challenges in managing disease control and public health resources. This research theme in environmental health aims to explore the environmental impacts on health outcomes and their heterogeneous effects across time, space, and population groups. I approach this research theme via innovative demographic, computational, and geospatial techniques. This research theme could help researchers and policymakers to develop place- and population-specific programs to mitigate environmental impacts on health across places and sub-populations, particularly in rural areas and among socially disadvantaged populations whose environmental resilience is hampered by their socioeconomic status. </p>
+<br>
+
 #### Open-source solutions to social science
 
 ![opensource](./images/open-source.jpg){: height="75px" width="300px" style="float:right; padding-left:10px"}
