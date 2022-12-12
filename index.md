@@ -20,7 +20,7 @@ hero_darken: true
 
 #### Bio sketch
 
-<p align="justify">Shuai Zhou is a Ph.D. candidate in <a href="https://pop.psu.edu/people/szhou" target="_blank">Demography</a> and <a href="https://aese.psu.edu/directory/sxz217" target="_blank">Rural Sociology</a> at the <a href="https://www.psu.edu/" target="_blank">Pennsylvania State University</a>.</p>
+<p align="justify">Shuai Zhou is a Ph.D. candidate in <a href="https://pop.psu.edu/people/sxz217" target="_blank">Demography</a> and <a href="https://aese.psu.edu/directory/sxz217" target="_blank">Rural Sociology</a> at the <a href="https://www.psu.edu/" target="_blank">Pennsylvania State University</a>.</p>
 
 <p align="justify">Zhou is a trained demographer and rural sociologist who also has expertise in geospatial analytics. His research interests include planned relocation, environmental migration, public health, spatial demography, and computational and geospatial analysis of big data using open source solutions on High Performance Computing (HPC) platforms.</p>
 
