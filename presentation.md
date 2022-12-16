@@ -43,6 +43,7 @@ hero_darken: true
 #### Invited talks
 
 <p align="justify">Zhou, Shuai. 2022. "Migration due to Climate Change." Geo-Resolution 2022—Geospatial Perspectives on Climate Change: Predicting and Mitigating Effects at Saint Louis University, September 28, 2022, St. Louis, MO. &nbsp;
+	<a href="https://www.youtube.com/watch?v=UXSFGpY9VYc&t=2s" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i></a>
 </p>
 
 <p align="justify">Zhou, Shuai. 2021. "GPS2space: An Open-source Python Library for Spatial Measure Extraction from GPS Data." QuantDev Brownbag at Social Science Research Institute at Pennsylvania State University, February 10, 2021, University Park, PA. &nbsp;
