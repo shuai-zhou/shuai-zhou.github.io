@@ -66,7 +66,7 @@ hero_darken: true
 	<a href="/downloads/conferences/Poster_PAA2022.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
-<p align="justify">Zhou, Shuai and Guangqing Chi. 2020. "Land Rental in Rural China: The Impacts of Demographics, Household Economy, Land Endowment, and Social Welfare, 2012 – 2016." 2020 Annual Meeting of the Population Association of America, April 22 – 25, 2020, Washington, DC.
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2020. "Land Rental in Rural China: The Impacts of Demographics, Household Economy, Land Endowment, and Social Welfare, 2012 – 2016." 2020 Annual Meeting of the Population Association of America, April 22 – 25, 2020, Washington, DC. (Canceled due to COVID)
 </p>
 <br>
 
