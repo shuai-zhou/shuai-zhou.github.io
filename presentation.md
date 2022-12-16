@@ -43,7 +43,7 @@ hero_darken: true
 #### Invited talks
 
 <p align="justify">Zhou, Shuai. 2022. "Migration due to Climate Change." Geo-Resolution 2022—Geospatial Perspectives on Climate Change: Predicting and Mitigating Effects at Saint Louis University, September 28, 2022, St. Louis, MO. &nbsp;
-	<a href="https://www.youtube.com/watch?v=UXSFGpY9VYc&t=2s" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i></a>
+	<a href="https://www.youtube.com/watch?v=UXSFGpY9VYc&t=2s" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
 </p>
 
 <p align="justify">Zhou, Shuai. 2021. "GPS2space: An Open-source Python Library for Spatial Measure Extraction from GPS Data." QuantDev Brownbag at Social Science Research Institute at Pennsylvania State University, February 10, 2021, University Park, PA. &nbsp;
@@ -61,7 +61,7 @@ hero_darken: true
 
 #### Conference posters
 <p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental and Sociodemographic Factors in the United States: A Multi-level Analysis, 2010 – 2020." Population and Climate Change: The Defining Relationship of the 21st Century, November 30 – December 2, 2022, Vienna, Austria. &nbsp;
-	<a href="https://youtu.be/wUzW-CNox7E" target="_blank" rel="noopener"><i class="youtube-play"></i></a>
+	<a href="https://youtu.be/wUzW-CNox7E" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
 </p>
 
 <p align="justify">Zhou, Shuai, Guangqing Chi, and Brian C. Thiede. 2022. "Migration and Climate Change and Variability in the Contiguous United States at the County Level, 1970 – 2010." 2022 Annual Meeting of the Population Association of America, April 6 – 9, 2022, Atlanta, GA. &nbsp;
