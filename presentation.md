@@ -59,7 +59,8 @@ hero_darken: true
 <br>
 
 #### Conference posters
-<p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental and Sociodemographic Factors in the United States: A Multi-level Analysis, 2010 – 2020." Population and Climate Change: The Defining Relationship of the 21st Century, November 30 – December 2, 2022, Vienna, Austria.
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental and Sociodemographic Factors in the United States: A Multi-level Analysis, 2010 – 2020." Population and Climate Change: The Defining Relationship of the 21st Century, November 30 – December 2, 2022, Vienna, Austria. &nbsp;
+	<a href="https://youtu.be/wUzW-CNox7E" target="_blank" rel="noopener"><i class="youtube-play"></i></a>
 </p>
 
 <p align="justify">Zhou, Shuai, Guangqing Chi, and Brian C. Thiede. 2022. "Migration and Climate Change and Variability in the Contiguous United States at the County Level, 1970 – 2010." 2022 Annual Meeting of the Population Association of America, April 6 – 9, 2022, Atlanta, GA. &nbsp;
