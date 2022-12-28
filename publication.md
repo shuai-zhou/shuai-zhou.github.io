@@ -16,6 +16,8 @@ hero_darken: true
 <!-- See doc here: https://icon-sets.iconify.design/vscode-icons/file-type-stata/ -->
 <script src="https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js"></script>
 
+<!-- This line makes sure the Altmetric badges show on the website -->
+<!-- See doc here: https://api.altmetric.com/embeds.html -->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <p align="justify">
@@ -28,6 +30,7 @@ hero_darken: true
 <p align="justify">
 	Li, Yanling, Zita Oravecz, Shuai Zhou, Yosef Bodovski, Ian J. Barnett, Naomi P. Friedman, Guangqing Chi, Scott I. Vrieze, and Sy-Miin Chow. 2022. "Bayesian Forecasting with a Regime-Switching Zero-Inflated Multilevel Poisson Regression Model: An Application to Adolescent Alcohol Use with Spatial Covariates." <i>Psychometrika</i>. 87(2): 376–402. &nbsp;
 	<a href="https://link.springer.com/article/10.1007%2Fs11336-021-09831-9" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+	<div data-badge-type="donut" data-doi="10.1007/s11336-021-09831-9" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 </p>
 
 <p align="justify">
@@ -35,11 +38,13 @@ hero_darken: true
 	<a href="/downloads/pubs/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
 	<a href="/downloads/codes/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="fab fa-python"></i></a> &nbsp;
 	<a href="https://github.com/shuai-zhou/gps2space" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+	<div data-badge-type="donut" data-doi="10.35566/jbds/v1n2/p5" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 </p>
 
 <p align="justify">
 	Moss, Jennifer L., Siddhartha Roy, Karl T. Clebak, Julie Radico, Jarrett Sell, Christina Scartozzi, Shuai Zhou, Guangqing Chi, and Tamara Oser. 2021. "Area- and Individual-Level Correlates of Self-Rated Health: Implications for Geographic Health Disparities." <i>Journal of Primary Care and Community Health</i>. 12: 1–8. &nbsp;
 	<a href="/downloads/pubs/2021Self_Rated Health.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+	<div data-badge-type="donut" data-doi="10.1177/21501327211039715" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 </p>
 <br>
 
@@ -86,6 +91,7 @@ hero_darken: true
 <p align="justify">
 	Zhou, Shuai. 2018. "International Migration of China: Status, Policy and Social Responses to the Globalization of Migration" by Lu Miao and Huiyao Wang (Singapore: Springer, 2017. 135 pp. ISBN: 978‐981‐10‐6073‐1). <i>Rural Sociology</i>, 83(3): 700–702. &nbsp;
 	<a href="/downloads/pubs/2018JR_InternationalMig.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+	<div data-badge-type="donut" data-doi="10.1111/ruso.12246" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 </p>
 <br>
 
