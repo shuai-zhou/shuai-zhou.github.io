@@ -16,12 +16,14 @@ hero_darken: true
 <!-- See doc here: https://icon-sets.iconify.design/vscode-icons/file-type-stata/ -->
 <script src="https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js"></script>
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 <p align="justify">
 	Zhou, Shuai and Guangqing Chi. 2022. "Farmland Rental: The Impacts of Household Demographics and Livelihood Strategies in China." <i>Land</i>. 11(8): 1318. &nbsp;
 	<a href="https://www.mdpi.com/2073-445X/11/8/1318" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
 	<a href="/downloads/codes/LandRental.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
+	<div data-badge-type="donut" data-doi="10.3390/land11081318" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 </p>
-<div data-badge-type="4" data-doi="10.3390/land11081318" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <p align="justify">
 	Li, Yanling, Zita Oravecz, Shuai Zhou, Yosef Bodovski, Ian J. Barnett, Naomi P. Friedman, Guangqing Chi, Scott I. Vrieze, and Sy-Miin Chow. 2022. "Bayesian Forecasting with a Regime-Switching Zero-Inflated Multilevel Poisson Regression Model: An Application to Adolescent Alcohol Use with Spatial Covariates." <i>Psychometrika</i>. 87(2): 376–402. &nbsp;
