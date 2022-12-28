@@ -20,7 +20,6 @@ hero_darken: true
 	Zhou, Shuai and Guangqing Chi. 2022. "Farmland Rental: The Impacts of Household Demographics and Livelihood Strategies in China." <i>Land</i>. 11(8): 1318. &nbsp;
 	<a href="https://www.mdpi.com/2073-445X/11/8/1318" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
 	<a href="/downloads/codes/LandRental.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
-	<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.3390/land11081318" data-hide-no-mentions="true"></div>
 </p>
 
 <p align="justify">
