@@ -21,6 +21,7 @@ hero_darken: true
 	<a href="https://www.mdpi.com/2073-445X/11/8/1318" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
 	<a href="/downloads/codes/LandRental.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
 </p>
+<div data-badge-type="4" data-doi="10.3390/land11081318" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <p align="justify">
 	Li, Yanling, Zita Oravecz, Shuai Zhou, Yosef Bodovski, Ian J. Barnett, Naomi P. Friedman, Guangqing Chi, Scott I. Vrieze, and Sy-Miin Chow. 2022. "Bayesian Forecasting with a Regime-Switching Zero-Inflated Multilevel Poisson Regression Model: An Application to Adolescent Alcohol Use with Spatial Covariates." <i>Psychometrika</i>. 87(2): 376–402. &nbsp;
