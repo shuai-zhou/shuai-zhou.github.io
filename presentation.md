@@ -8,7 +8,7 @@ hero_darken: true
 
 #### Conference presentations
 
-<p align="justify">Zhou, Shuai and Guangqing Chi. 2023. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 2023 Annual Meeting of the Population Association of America, April 12 – 15, 2023, New Orleans, Louisiana. (Forthcoming)
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2023. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 2023 Annual Meeting of the Population Association of America, April 12 – 15, 2023, New Orleans, LA. (Forthcoming)
 </p>
 
 <p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental and Sociodemographic Factors in the United States: A Multi-level Approach." 2022 Annual Meeting of the Rural Sociological Society, August 04 – 07, 2022, Westminster, CO. &nbsp;
@@ -19,8 +19,12 @@ hero_darken: true
 	<!-- <a href="/downloads/conferences/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> -->
 </p>
 
-<p align="justify">Zhou, Shuai and Guangqing Chi. 2021. "How Do Environmental Changes and Variations Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature." 2021 Annual Meeting of the Rural Sociological Society, July 29 – August 01, 2021. &nbsp;
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2021. "How Do Environmental Changes and Variations Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature." 2021 Annual Meeting of the Rural Sociological Society, July 29 – August 01, 2021. (Held online due to COVID-19) &nbsp;
 	<a href="/downloads/conferences/Present_RSS2021.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+</p>
+
+<p align="justify">Zhou, Shuai and Matthew M. Brooks. 2020. "Disparities in Transition to High School: An Evaluation of Rurality, Race and Ethnicity Composition, and Mobility at the Unified School District Level in the US." 2020 Annual Meeting of the Rural Sociological Society. (Canceled due to COVID-19) &nbsp;
+	<a href="/downloads/conferences/Present_RSS2020.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
 <p align="justify">Zhou, Shuai and Guangqing Chi. 2019. "Land Rental in Rural China: The Impacts of Demographics, Household Economy, Land Endowment, and Social Welfare, 2012 – 2016." 2019 Annual Meeting of the Rural Sociological Society, August 07 – 10, 2019, Richmond, VA. &nbsp;
@@ -68,7 +72,7 @@ hero_darken: true
 	<a href="/downloads/conferences/Poster_PAA2022.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
-<p align="justify">Zhou, Shuai and Guangqing Chi. 2020. "Land Rental in Rural China: The Impacts of Demographics, Household Economy, Land Endowment, and Social Welfare, 2012 – 2016." 2020 Annual Meeting of the Population Association of America, April 22 – 25, 2020, Washington, DC. (Canceled due to COVID)
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2020. "Land Rental in Rural China: The Impacts of Demographics, Household Economy, Land Endowment, and Social Welfare, 2012 – 2016." 2020 Annual Meeting of the Population Association of America, April 22 – 25, 2020, Washington, DC. (Canceled due to COVID-19)
 </p>
 <br>
 
