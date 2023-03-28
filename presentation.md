@@ -8,7 +8,8 @@ hero_darken: true
 
 #### Conference presentations
 
-<p align="justify">Zhou, Shuai and Guangqing Chi. 2023. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 2023 Annual Meeting of the Population Association of America, April 12 – 15, 2023, New Orleans, LA. (Forthcoming)
+<p align="justify">Zhou, Shuai and Guangqing Chi. 2023. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 2023 Annual Meeting of the Population Association of America, April 12 – 15, 2023, New Orleans, LA. &nbsp;
+	<a href="/downloads/conferences/Present_PAA2023.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> (Forthcoming)
 </p>
 
 <p align="justify">Zhou, Shuai and Guangqing Chi. 2022. "Migratory Responses to Environmental and Sociodemographic Factors in the United States: A Multi-level Approach." 2022 Annual Meeting of the Rural Sociological Society, August 04 – 07, 2022, Westminster, CO. &nbsp;
