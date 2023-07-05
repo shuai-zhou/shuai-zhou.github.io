@@ -8,7 +8,8 @@ hero_darken: true
 
 #### Penn State University
 
-- <p align="justify">Guest lecture, Environmental Migration in the United States: A Spatio-temporal Perspective, April 20, 2023</p>
+- <p align="justify">Guest lecture, Environmental Migration in the United States: A Spatio-temporal Perspective, April 20, 2023 &nbsp;
+	<a href="/downloads/teach/CED410GuestLecture.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a></p>
 
 - <p align="justify">Guest lecture, Using Social Explorer for Spatial Analyses, February 15, 2021 &nbsp;
 	<a href="/downloads/teach/SocialExplorerDemo.html" target="_blank" rel="noopener"><i class="fas fa-file-code"></i></a></p>
