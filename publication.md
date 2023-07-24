@@ -23,7 +23,8 @@ hero_darken: true
 <!-- See how to use Dimensions Badges: https://badge.dimensions.ai/ -->
 
 <p align="justify">
-	Anderson, Cory, <b>Shuai Zhou</b>, and Guangqing Chi. 2023. "Population-Wide Vaccination Hesitancy among the Amish: A County-Level Study of COVID-19 Vaccine Adoption and Implications for Public Health Policy and Practice." <i>Population Research and Policy Review</i>. Accepted.
+	Anderson, Cory, <b>Shuai Zhou</b>, and Guangqing Chi. 2023. "Population-Wide Vaccination Hesitancy among the Amish: A County-Level Study of COVID-19 Vaccine Adoption and Implications for Public Health Policy and Practice." <i>Population Research and Policy Review</i>. Accepted. &nbsp;
+	<a href="/downloads/pubs/2023AmishCovidVacc.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 <!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="XXX" class="altmetric-embed"></div> -->
 
@@ -53,7 +54,7 @@ hero_darken: true
 
 <p align="justify">
 	Moss, Jennifer L., Siddhartha Roy, Karl T. Clebak, Julie Radico, Jarrett Sell, Christina Scartozzi, <b>Shuai Zhou</b>, Guangqing Chi, and Tamara Oser. 2021. "Area- and Individual-Level Correlates of Self-Rated Health: Implications for Geographic Health Disparities." <i>Journal of Primary Care and Community Health</i>. 12: 1–8. &nbsp;
-	<a href="/downloads/pubs/2021Self_Rated Health.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+	<a href="/downloads/pubs/2021SelfRatedHealth.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 	<span class="__dimensions_badge_embed__" data-doi="10.1177/21501327211039715" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </p>
 <!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/21501327211039715" class="altmetric-embed"></div> -->
@@ -97,7 +98,7 @@ hero_darken: true
 
 <p align="justify">
 	<b>Zhou, Shuai</b>. 2018. "International Migration of China: Status, Policy and Social Responses to the Globalization of Migration" by Lu Miao and Huiyao Wang (Singapore: Springer, 2017. 135 pp. ISBN: 978‐981‐10‐6073‐1). <i>Rural Sociology</i>, 83(3): 700–702. &nbsp;
-	<a href="/downloads/pubs/2018JR_InternationalMig.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+	<a href="/downloads/pubs/2018InternationalMigChina.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 	<span class="__dimensions_badge_embed__" data-doi="10.1111/ruso.12246" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </p>
 <!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ruso.12246" class="altmetric-embed"></div> -->
@@ -107,7 +108,7 @@ hero_darken: true
 
 <p align="justify">
 	<b>Zhou, Shuai</b> and Matthew M. Brooks, 2020. "Pennsylvania Pomp and Circumstance: Trends in High School Drop Outs." <i>Pennsylvania Population Network Briefs</i> 3: 1–4. &nbsp;
-	<a href="/downloads/pubs/2020PB_PennDropout.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+	<a href="/downloads/pubs/2020PennDropout.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 <br>
 
