@@ -24,7 +24,7 @@ hero_darken: true
 
 <p align="justify">
 	Anderson, Cory, <b>Shuai Zhou</b>, and Guangqing Chi. 2023. "Population-Wide Vaccination Hesitancy among the Amish: A County-Level Study of COVID-19 Vaccine Adoption and Implications for Public Health Policy and Practice." <i>Population Research and Policy Review</i>. 42: 70. &nbsp;
-	<a href="/downloads/pubs/2023AmishCovidVacc.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+	<a href="/downloads/pubs/2023AmishCovidVacc.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
 	<a href="https://github.com/shuai-zhou/AmishCovidVaccineAdoption" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
 	<span class="__dimensions_badge_embed__" data-doi="10.1007/s11113-023-09816-9" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </p>
