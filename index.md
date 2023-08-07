@@ -20,9 +20,9 @@ hero_darken: true
 
 #### Bio sketch
 
-<p align="justify">Shuai Zhou is a Ph.D. candidate in <a href="https://pop.psu.edu/people/sxz217" target="_blank">Demography</a> and <a href="https://aese.psu.edu/directory/sxz217" target="_blank">Rural Sociology</a> at the <a href="https://www.psu.edu/" target="_blank">Pennsylvania State University</a>.</p>
+<p align="justify">Shuai Zhou is a Postdoctoral Research Associate at Cornell University, specializing in demographic and health studies, quantitative methods, and computational and geospatial analytics.</p>
 
-<p align="justify">Zhou is a trained demographer and rural sociologist who also has expertise in geospatial analytics. His research interests include planned relocation, environmental migration, public health, spatial demography, and computational and geospatial analysis of big data using open source solutions on High Performance Computing (HPC) platforms.</p>
+<p align="justify">He earned his Ph.D. in Rural Sociology with a dual-title in Demography from the Pennsylvania State University in 2023. Zhou's research interests encompass environmental migration, environmental health, spatial demography, and computational social science. Currently, his work focuses on investigating how environmental changes influence migration patterns and health outcomes in both the United States and global contexts.</p>
 
 <p align="justify">
 <a href="mailto:sxz217@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:21px"></i></a>
@@ -65,9 +65,7 @@ hero_darken: true
 
 Email: <u>sxz217@psu.edu<u>
 
-Address: <u>801 Oswald Tower, University Park, PA 16802<u>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &thinsp;<u>312 Armsby Building, University Park, PA 16802<u>
+Address: <u>250 Warren Hall, Ithaca, NY 14853<u>
 
 <!-- Spaces in markdown: https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github
 only one space » either use &nbsp; or just hit Spacebar (2nd one is good choice in this case)
