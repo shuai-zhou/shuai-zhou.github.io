@@ -63,9 +63,9 @@ hero_darken: true
 
 #### Contact information
 
-Email: <u>sxz217@psu.edu<u>
+Email: <u>sz675@cornell.edu<u>
 
-Address: <u>250 Warren Hall, Ithaca, NY 14853<u>
+Address: <u><a href="https://goo.gl/maps/Epbpbsy3tc8GEeeg7" target="_blank">250 Warren Hall, Ithaca, NY 14853</a><u>
 
 <!-- Spaces in markdown: https://stackoverflow.com/questions/44810511/how-to-add-empty-spaces-into-md-markdown-readme-on-github
 only one space » either use &nbsp; or just hit Spacebar (2nd one is good choice in this case)
