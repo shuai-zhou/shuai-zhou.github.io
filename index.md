@@ -25,7 +25,7 @@ hero_darken: true
 <p align="justify">He earned his Ph.D. in Rural Sociology with a dual-title in Demography from the Pennsylvania State University in 2023. Zhou's research interests encompass environmental migration, environmental health, spatial demography, and computational social science. Currently, his work focuses on investigating how environmental changes influence migration patterns and health outcomes in both the United States and global contexts.</p>
 
 <p align="justify">
-<a href="mailto:sxz217@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:21px"></i></a>
+<a href="mailto:sz675@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:21px"></i></a>
     &ensp;
 <a href="https://twitter.com/ShuaiZhou312" target="_blank" rel="noopener"><i class="fab fa-twitter big-icon" style="font-size:21px"></i></a>
     &ensp;
@@ -41,7 +41,7 @@ hero_darken: true
 <!-- <a href="https://www.linkedin.com/in/zhou-shuai" target="_blank" rel="noopener"><i class="fa fa-linkedin"></i></a> -->
 
 <!-- <div align = "right">
-  <a href="mailto:sxz217@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:21px"></i></a>
+  <a href="mailto:sz675@psu.edu"><i class="fas fa-envelope big-icon" style="font-size:21px"></i></a>
     &ensp;
   <a href="https://twitter.com/ShuaiZhou312" target="_blank" rel="noopener"><i class="fab fa-twitter big-icon" style="font-size:21px"></i></a>
     &ensp;
