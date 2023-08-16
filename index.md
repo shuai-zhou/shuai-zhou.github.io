@@ -20,7 +20,7 @@ hero_darken: true
 
 #### Bio sketch
 
-<p align="justify">Shuai Zhou is a Postdoctoral Research Associate at Cornell University, specializing in demographic and health studies, quantitative methods, and computational and geospatial analytics.</p>
+<p align="justify">Shuai Zhou is a Postdoctoral Associate in the <a href="https://cals.cornell.edu/shuai-zhou" target="_blank">Department of Global Development</a> at Cornell University, specializing in demographic and health studies, quantitative methods, and computational and geospatial analytics.</p>
 
 <p align="justify">He earned his Ph.D. in Rural Sociology with a dual-title in Demography from the Pennsylvania State University in 2023. Zhou's research interests encompass environmental migration, environmental health, spatial demography, and computational social science. Currently, his work focuses on investigating how environmental changes influence migration patterns and health outcomes in both the United States and global contexts.</p>
 
