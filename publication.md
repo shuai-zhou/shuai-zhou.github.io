@@ -28,38 +28,33 @@ hero_darken: true
 	<a href="https://github.com/shuai-zhou/AmishCovidVaccineAdoption" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
 	<span class="__dimensions_badge_embed__" data-doi="10.1007/s11113-023-09816-9" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11113-023-09816-9" class="altmetric-embed"></div>
 </p>
-<!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11113-023-09816-9" class="altmetric-embed"></div> -->
 
 <p align="justify">
 	<b>Zhou, Shuai</b> and Guangqing Chi. 2022. "Farmland Rental: The Impacts of Household Demographics and Livelihood Strategies in China." <i>Land</i>. 11(8): 1318. &nbsp;
 	<a href="https://www.mdpi.com/2073-445X/11/8/1318" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
 	<a href="/downloads/codes/LandRental.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.3390/land11081318" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+	<span class="__dimensions_badge_embed__" data-doi="10.3390/land11081318" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/land11081318" class="altmetric-embed"></div>
 </p>
-<!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/land11081318" class="altmetric-embed"></div> -->
 
 <p align="justify">
 	Li, Yanling, Zita Oravecz, <b>Shuai Zhou</b>, Yosef Bodovski, Ian J. Barnett, Naomi P. Friedman, Guangqing Chi, Scott I. Vrieze, and Sy-Miin Chow. 2022. "Bayesian Forecasting with a Regime-Switching Zero-Inflated Multilevel Poisson Regression Model: An Application to Adolescent Alcohol Use with Spatial Covariates." <i>Psychometrika</i>. 87(2): 376–402. &nbsp;
 	<a href="https://link.springer.com/article/10.1007%2Fs11336-021-09831-9" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.1007/s11336-021-09831-9" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+	<span class="__dimensions_badge_embed__" data-doi="10.1007/s11336-021-09831-9" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11336-021-09831-9" class="altmetric-embed"></div>
 </p>
-<!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11336-021-09831-9" class="altmetric-embed"></div> -->
 
 <p align="justify">
 	<b>Zhou, Shuai</b>, Yanling Li, Guangqing Chi, Junjun Yin, Zita Oravecz, Yosef Bodovski, Naomi P. Friedman, Scott I. Vrieze, and Sy-Miin Chow. 2021. "GPS2space: An Open-source Python Library for Spatial Measure Extraction from GPS Data."  <i>Journal of Behavioral Data Science</i>. 1(2): 127–155. &nbsp;
 	<a href="/downloads/pubs/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
 	<a href="/downloads/codes/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="fab fa-python"></i></a> &nbsp;
 	<a href="https://github.com/shuai-zhou/gps2space" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.35566/jbds/v1n2/p5" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+	<span class="__dimensions_badge_embed__" data-doi="10.35566/jbds/v1n2/p5" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.35566/jbds/v1n2/p5" class="altmetric-embed"></div>
 </p>
-<!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.35566/jbds/v1n2/p5" class="altmetric-embed"></div> -->
 
 <p align="justify">
 	Moss, Jennifer L., Siddhartha Roy, Karl T. Clebak, Julie Radico, Jarrett Sell, Christina Scartozzi, <b>Shuai Zhou</b>, Guangqing Chi, and Tamara Oser. 2021. "Area- and Individual-Level Correlates of Self-Rated Health: Implications for Geographic Health Disparities." <i>Journal of Primary Care and Community Health</i>. 12: 1–8. &nbsp;
 	<a href="/downloads/pubs/2021SelfRatedHealth.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.1177/21501327211039715" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+	<span class="__dimensions_badge_embed__" data-doi="10.1177/21501327211039715" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/21501327211039715" class="altmetric-embed"></div>
 </p>
-<!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/21501327211039715" class="altmetric-embed"></div> -->
 <br>
 
 #### Under review
@@ -101,9 +96,8 @@ hero_darken: true
 <p align="justify">
 	<b>Zhou, Shuai</b>. 2018. "International Migration of China: Status, Policy and Social Responses to the Globalization of Migration" by Lu Miao and Huiyao Wang (Singapore: Springer, 2017. 135 pp. ISBN: 978‐981‐10‐6073‐1). <i>Rural Sociology</i>, 83(3): 700–702. &nbsp;
 	<a href="/downloads/pubs/2018InternationalMigChina.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/ruso.12246" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+	<span class="__dimensions_badge_embed__" data-doi="10.1111/ruso.12246" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ruso.12246" class="altmetric-embed"></div>
 </p>
-<!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ruso.12246" class="altmetric-embed"></div> -->
 <br>
 
 #### Other publications
