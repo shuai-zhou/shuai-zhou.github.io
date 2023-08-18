@@ -28,7 +28,7 @@ hero_darken: true
 	<a href="https://github.com/shuai-zhou/AmishCovidVaccineAdoption" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
 	<span class="__dimensions_badge_embed__" data-doi="10.1007/s11113-023-09816-9" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </p>
-<!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="XXX" class="altmetric-embed"></div> -->
+<!-- <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11113-023-09816-9" class="altmetric-embed"></div> -->
 
 <p align="justify">
 	<b>Zhou, Shuai</b> and Guangqing Chi. 2022. "Farmland Rental: The Impacts of Household Demographics and Livelihood Strategies in China." <i>Land</i>. 11(8): 1318. &nbsp;
