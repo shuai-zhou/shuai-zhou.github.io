@@ -73,5 +73,5 @@ more than one space » use &nbsp; + space (for 2 consecutive spaces) -->
 
 <!-- Different types of space, e.g., half space: https://stackoverflow.com/questions/8515365/are-there-other-whitespace-codes-like-nbsp-for-half-spaces-em-spaces-en-space -->
 
-**Note:** This website may not provide up-to-date information, please contact me for recent work and activity.
+**Note:** This website may not provide up-to-date information, please contact me for more info or <a href="https://shuaizhou.youcanbook.me/" target="_blank">schedule a meeting</a>.
 
