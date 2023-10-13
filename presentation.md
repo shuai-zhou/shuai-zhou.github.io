@@ -47,6 +47,10 @@ hero_darken: true
 
 #### Invited talks
 
+<p align="justify"><b>Zhou, Shuai</b>. 2023. "Imbalanced Nutrient Supply and Demand for Regenerative Agriculture." Share Research and Ideas with Syngenta, October 11, 2023, Cornell University, Ithaca, NY. &nbsp;
+	<a href="/downloads/conferences/Syngenta.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+</p>
+
 <p align="justify"><b>Zhou, Shuai</b>. 2022. "Migration due to Climate Change." Geo-Resolution 2022—Geospatial Perspectives on Climate Change: Predicting and Mitigating Effects at Saint Louis University, September 28, 2022, St. Louis, MO. &nbsp;
 	<a href="https://www.youtube.com/watch?v=UXSFGpY9VYc&t=2s" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
 </p>
