@@ -10,8 +10,6 @@ hero_darken: true
 <!-- <i>\* indicates first author</i> -->
 <!-- \* indicates first author -->
 
-#### Peer-reviewed articles
-
 <!-- This line makes sure the STATA icon for land rental paper will render -->
 <!-- See doc here: https://icon-sets.iconify.design/vscode-icons/file-type-stata/ -->
 <script src="https://code.iconify.design/iconify-icon/1.0.0-beta.3/iconify-icon.min.js"></script>
@@ -21,95 +19,374 @@ hero_darken: true
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <!-- See how to use Dimensions Badges: https://badge.dimensions.ai/ -->
+<!-- <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span> -->
 
-<p align="justify">
-	<b>Zhou, Shuai</b> and Guangqing Chi, 2023. "How Do Environmental Stressors Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature." <i>Demographic Research</i>. Accepted &nbsp;
-	<!-- <a href="/downloads/pubs/2023EnvMigMeta.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> -->
-</p>
+<!-- SETUP STYLES -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Publications</title>
+<style>
+  .publication {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    overflow: hidden;
+  }
+  .publication-info {
+    float: left;
+    width: 88%; /* Adjust the width as needed */
+  }
+  .metrics-badges {
+    float: right;
+    width: 12%; /* Adjust the width as needed */
+    text-align: right;
+  }
+  .altmetric-badge, .dimensions-badge {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .publication-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0;
+    line-height: 0.5; /* Reduced line height */
+    text-align: justify;
+    text-decoration: none; /* Remove the default underline of hyperlinks */
+    color: #000; /* Set the color of the link */
+    overflow: hidden; /* Enable overflow hiding */
+    white-space: nowrap; /* Keep the text in a single line */
+    text-overflow: ellipsis; /* Add ellipsis (...) to text overflow */
+    display: block; /* Block display to occupy the full width */
+    max-width: 100%; /* Limit the width to prevent overflow */
+  }
+  .publication-authors {
+    font-size: 1.0em;
+    color: #555;
+    margin: 0;
+    line-height: 0.5; /* Reduced line height */
+    text-align: left;
+  }
+  .publication-links {
+    margin: 0;
+    line-height: 0.5; /* Reduced line height */
+  }
+  .publication-links a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: #1a0dab;
+  }
+  .section-title {
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+</style>
+</head>
+<body>
 
-<p align="justify">
-	Anderson, Cory, <b>Shuai Zhou</b>, and Guangqing Chi. 2023. "Population-Wide Vaccination Hesitancy among the Amish: A County-Level Study of COVID-19 Vaccine Adoption and Implications for Public Health Policy and Practice." <i>Population Research and Policy Review</i>. 42: 70. &nbsp;
-	<a href="/downloads/pubs/2023AmishCovidVacc.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
-	<a href="https://github.com/shuai-zhou/AmishCovidVaccineAdoption" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.1007/s11113-023-09816-9" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11113-023-09816-9" class="altmetric-embed"></div>
-</p>
+<!-- PUBLICATION RECORD -->
+<h4 class="section-title">Peer-reviewed articles</h4>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">How Do Environmental Stressors Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature</a>
+    </h6>
+    <p class="publication-authors">Zhou, S. and Chi, G. (2023). <b><i>Demographic Research [accepted]</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2023EnvMigMeta.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	<b>Zhou, Shuai</b> and Guangqing Chi. 2022. "Farmland Rental: The Impacts of Household Demographics and Livelihood Strategies in China." <i>Land</i>. 11(8): 1318. &nbsp;
-	<a href="https://www.mdpi.com/2073-445X/11/8/1318" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
-	<a href="/downloads/codes/LandRental.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.3390/land11081318" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.3390/land11081318" class="altmetric-embed"></div>
-</p>
+<!-- PUBLICATION RECORD -->
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="https://link.springer.com/article/10.1007/s11113-023-09816-9" target="_blank">Population-Wide Vaccination Hesitancy among the Amish: A County-Level Study of COVID-19 Vaccine Adoption and Implications for Public Health Policy and Practice</a>
+    </h6>
+    <p class="publication-authors">Anderson, C., Zhou, S., and Chi, G. (2023). <b><i>Population Research and Policy Review</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2023AmishCovidVacc.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+      <a href="https://github.com/shuai-zhou/AmishCovidVaccineAdoption" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s11113-023-09816-9"></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.1007/s11113-023-09816-9" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	Li, Yanling, Zita Oravecz, <b>Shuai Zhou</b>, Yosef Bodovski, Ian J. Barnett, Naomi P. Friedman, Guangqing Chi, Scott I. Vrieze, and Sy-Miin Chow. 2022. "Bayesian Forecasting with a Regime-Switching Zero-Inflated Multilevel Poisson Regression Model: An Application to Adolescent Alcohol Use with Spatial Covariates." <i>Psychometrika</i>. 87(2): 376–402. &nbsp;
-	<a href="https://link.springer.com/article/10.1007%2Fs11336-021-09831-9" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.1007/s11336-021-09831-9" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11336-021-09831-9" class="altmetric-embed"></div>
-</p>
+<!-- PUBLICATION RECORD -->
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="https://www.mdpi.com/2073-445X/11/8/1318" target="_blank">Farmland Rental: The Impacts of Household Demographics and Livelihood Strategies in China</a>
+    </h6>
+    <p class="publication-authors">Zhou, S. and Chi, G. (2022). <b><i>Land</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2019LandRental.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+      <a href="/downloads/codes/LandRental.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi="10.3390/land11081318"></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.3390/land11081318" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	<b>Zhou, Shuai</b>, Yanling Li, Guangqing Chi, Junjun Yin, Zita Oravecz, Yosef Bodovski, Naomi P. Friedman, Scott I. Vrieze, and Sy-Miin Chow. 2021. "GPS2space: An Open-source Python Library for Spatial Measure Extraction from GPS Data."  <i>Journal of Behavioral Data Science</i>. 1(2): 127–155. &nbsp;
-	<a href="/downloads/pubs/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> &nbsp;
-	<a href="/downloads/codes/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="fab fa-python"></i></a> &nbsp;
-	<a href="https://github.com/shuai-zhou/gps2space" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.35566/jbds/v1n2/p5" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.35566/jbds/v1n2/p5" class="altmetric-embed"></div>
-</p>
+<!-- PUBLICATION RECORD -->
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="https://link.springer.com/article/10.1007/s11336-021-09831-9" target="_blank">Bayesian Forecasting with a Regime-Switching Zero-Inflated Multilevel Poisson Regression Model: An Application to Adolescent Alcohol Use with Spatial Covariates</a>
+    </h6>
+    <p class="publication-authors">Li, Y., Oravecz, Z., Zhou, S. et al. (2022). <b><i>Psychometrika</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2022BayesianForecast.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s11336-021-09831-9"></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.1007/s11336-021-09831-9" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	Moss, Jennifer L., Siddhartha Roy, Karl T. Clebak, Julie Radico, Jarrett Sell, Christina Scartozzi, <b>Shuai Zhou</b>, Guangqing Chi, and Tamara Oser. 2021. "Area- and Individual-Level Correlates of Self-Rated Health: Implications for Geographic Health Disparities." <i>Journal of Primary Care and Community Health</i>. 12: 1–8. &nbsp;
-	<a href="/downloads/pubs/2021SelfRatedHealth.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.1177/21501327211039715" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/21501327211039715" class="altmetric-embed"></div>
-</p>
-<br>
+<!-- PUBLICATION RECORD -->
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="https://jbds.isdsa.org/index.php/jbds/article/view/27" target="_blank">GPS2space: An Open-source Python Library for Spatial Measure Extraction from GPS Data</a>
+    </h6>
+    <p class="publication-authors">Zhou, S., Li, Y., Chi, G. et al. (2021). <b><i>Journal of Behavioral Data Science</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+      <a href="/downloads/codes/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="fab fa-python"></i></a>
+      <a href="https://github.com/shuai-zhou/gps2space" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi="10.35566/jbds/v1n2/p5"></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.35566/jbds/v1n2/p5" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-#### Under review
+<!-- PUBLICATION RECORD -->
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="https://journals.sagepub.com/doi/full/10.1177/21501327211039715" target="_blank">Area- and Individual-Level Correlates of Self-Rated Health: Implications for Geographic Health Disparities</a>
+    </h6>
+    <p class="publication-authors">Moss, J.L., Roy, S., Clebak, K.T. et al. (2021). <b><i>Journal of Primary Care & Community Health</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2021SelfRatedHealth.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1177/21501327211039715"></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.1177/21501327211039715" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	<b>Zhou, Shuai</b> and Guangqing Chi. "How Do Environmental Changes and Variations Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature."
-</p>
+<h4 class="section-title">Under review</h4>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Subsidized Relocation and the Willingness to Move: Evidence from the Targeted Poverty Alleviation Project in China</a>
+    </h6>
+    <p class="publication-authors">Zhou, S., Ghi, G., Qiu, H. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	<b>Zhou, Shuai</b>, Guangqing Chi, Huanguang Qiu, Zhen Lei, Erica A.H. Smithwick, and Jiquan Chen. "Subsidized Relocation and the Willingness to Move: Evidence from the Targeted Poverty Alleviation Project in China."
-</p>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Climate Impacts on Arctic Migration: Existing Evidence and Research Agenda</a>
+    </h6>
+    <p class="publication-authors">Chi, G., Zhou, S., Mucioki, M. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	Chi, Guangqing, Megan Mucioki, <b>Shuai Zhou</b>, Jessica Miller, Ekrem Korkut, Lance Howe, Junjun Yin, Davin Holen, Heather Randell, Kathleen E. Halvorsen, Lara Fowler, James Ford, and Ann Tickamyer. "Climate Impacts on Arctic Migration: Existing Evidence and Research Agenda."
-</p>
-<br>
+<h4 class="section-title">Book review</h4>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ruso.12246" target="_blank">International Migration of China: Status, Policy and Social Responses to the Globalization of Migration" by Lu Miao and Huiyao Wang (Singapore: Springer, 2017. 135 pp. ISBN: 978‐981‐10‐6073‐1)</a>
+    </h6>
+    <p class="publication-authors">Zhou, S. (2018). <b><i>Rural Sociology</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2018InternationalMigChina.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1111/ruso.12246"></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.1111/ruso.12246" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-#### Manuscripts in preparation
+<h4 class="section-title">Other publications</h4>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="https://pop.psu.edu/sites/pri/files/HSDropOutRatesBrief_RFCdocx.pdf" target="_blank">Pennsylvania Pomp and Circumstance: Trends in High School Drop Outs</a>
+    </h6>
+    <p class="publication-authors">Zhou, S. and Brooks, M.M. (2020). <b><i>Pennsylvania Population Network Briefs</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2020PennDropout.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	<b>Zhou, Shuai</b>, Guangqing Chi, and Brian C. Thiede. "Climate Variability and County-Level Migration in the United States, 1970 – 2010."
-</p>
+<h4 class="section-title">Manuscripts in preparation</h4>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Climate Variability and County-Level Migration in the United States, 1970 – 2010</a>
+    </h6>
+    <p class="publication-authors">Zhou, S., Chi, G., and Thiede, B.C.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	<b>Zhou, Shuai</b> and Guangqing Chi. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020."
-</p>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020</a>
+    </h6>
+    <p class="publication-authors">Zhou, S. and Chi, G.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	Anderson, Cory, George M. Hayward, <b>Shuai Zhou</b>, Guangqing Chi, and Mary Shenk. "Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?"
-</p>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?</a>
+    </h6>
+    <p class="publication-authors">Anderson, C., Hayward, C.G., Zhou, S. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-<p align="justify">
-	Hou, Qing, <b>Shuai Zhou</b>, and Guangqing Chi. "The Factors Affecting Electric Vehicle Adoption in the United States, 2016 – 2021."
-</p>
-<br>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">The Factors Affecting Electric Vehicle Adoption in the United States, 2016 – 2021</a>
+    </h6>
+    <p class="publication-authors">Hou, Q., Zhou, S., and Chi, G.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
 
-#### Book review
 
-<p align="justify">
-	<b>Zhou, Shuai</b>. 2018. "International Migration of China: Status, Policy and Social Responses to the Globalization of Migration" by Lu Miao and Huiyao Wang (Singapore: Springer, 2017. 135 pp. ISBN: 978‐981‐10‐6073‐1). <i>Rural Sociology</i>. 83(3): 700–702. &nbsp;
-	<a href="/downloads/pubs/2018InternationalMigChina.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
-	<span class="__dimensions_badge_embed__" data-doi="10.1111/ruso.12246" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/ruso.12246" class="altmetric-embed"></div>
-</p>
-<br>
-
-#### Other publications
-
-<p align="justify">
-	<b>Zhou, Shuai</b> and Matthew M. Brooks, 2020. "Pennsylvania Pomp and Circumstance: Trends in High School Drop Outs." <i>Pennsylvania Population Network Briefs</i>. 3: 1–4. &nbsp;
-	<a href="/downloads/pubs/2020PennDropout.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
-</p>
-<br>
-
+</body>
+</html>
