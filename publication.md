@@ -265,26 +265,6 @@ hero_darken: true
 <div class="publication">
   <div class="publication-info">
     <h6 class="publication-title">
-      <a href="" target="_blank">Enhancing Urban Land Use Efficiency through Regional Economic Integration: A Network Synergy Analysis in the Yangtze River Delta</a>
-    </h6>
-    <p class="publication-authors">Sun, Y., Wu, L., Fu, H. et al.</p>
-    <div class="publication-links">
-    </div>
-  </div>
-  <div class="metrics-badges">
-    <div class="altmetric-badge">
-      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-    </div>
-  </div>
-</div>
-
-<div class="publication">
-  <div class="publication-info">
-    <h6 class="publication-title">
       <a href="" target="_blank">Transition Towards Sustainable Diets: Multi-objective Optimization of Dietary Pattern in China</a>
     </h6>
     <p class="publication-authors">Fu, H., Li, Y., Jiang, P. et al.</p>
@@ -413,6 +393,26 @@ hero_darken: true
       <a href="" target="_blank">The Factors Affecting Electric Vehicle Adoption in the United States, 2016 – 2021</a>
     </h6>
     <p class="publication-authors">Hou, Q., Zhou, S., and Chi, G.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Enhancing Urban Land Use Efficiency through Regional Economic Integration: A Network Synergy Analysis in the Yangtze River Delta</a>
+    </h6>
+    <p class="publication-authors">Sun, Y., Wu, L., Fu, H. et al.</p>
     <div class="publication-links">
     </div>
   </div>
