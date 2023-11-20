@@ -372,7 +372,7 @@ hero_darken: true
     <h6 class="publication-title">
       <a href="" target="_blank">Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?</a>
     </h6>
-    <p class="publication-authors">Anderson, C., Hayward, C.G., Zhou, S. et al.</p>
+    <p class="publication-authors">Anderson, C., Hayward, G.M., Zhou, S. et al.</p>
     <div class="publication-links">
     </div>
   </div>
