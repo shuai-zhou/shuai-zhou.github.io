@@ -262,6 +262,46 @@ hero_darken: true
   </div>
 </div>
 
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Enhancing Urban Land Use Efficiency through Regional Economic Integration: A Network Synergy Analysis in the Yangtze River Delta</a>
+    </h6>
+    <p class="publication-authors">Sun, Y., Wu, L., Fu, H. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Transition Towards Sustainable Diets: Multi-objective Optimization of Dietary Pattern in China</a>
+    </h6>
+    <p class="publication-authors">Fu, H., Li, Y., Jiang, P. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
+    </div>
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+    </div>
+  </div>
+</div>
+
 <h4 class="section-title">Book review</h4>
 <div class="publication">
   <div class="publication-info">
