@@ -29,7 +29,7 @@ hero_darken: true
 <title>Publications</title>
 <style>
   .publication {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px dotted #ddd;
     padding: 10px;
     overflow: hidden;
   }
