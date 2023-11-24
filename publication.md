@@ -103,8 +103,8 @@ hero_darken: true
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
     </div>
     <div class="dimensions-badge">
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8" z-index:999></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right" z-index:999></span>
     </div>
   </div>
 </div>
