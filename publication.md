@@ -99,12 +99,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -122,12 +122,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.1007/s11113-023-09816-9" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s11113-023-09816-9"></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="10.1007/s11113-023-09816-9" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -145,12 +145,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.3390/land11081318" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi="10.3390/land11081318"></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="10.3390/land11081318" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -167,12 +167,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.1007/s11336-021-09831-9" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1007/s11336-021-09831-9"></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="10.1007/s11336-021-09831-9" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -191,12 +191,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.35566/jbds/v1n2/p5" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi="10.35566/jbds/v1n2/p5"></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="10.35566/jbds/v1n2/p5" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -213,12 +213,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.1177/21501327211039715" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1177/21501327211039715"></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="10.1177/21501327211039715" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -234,12 +234,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -254,12 +254,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -274,12 +274,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -296,12 +296,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.1111/ruso.12246" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi="10.1111/ruso.12246"></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="10.1111/ruso.12246" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -318,12 +318,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -339,12 +339,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -359,12 +359,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -379,12 +379,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -399,12 +399,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
@@ -419,12 +419,12 @@ hero_darken: true
     </div>
   </div>
   <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
     <div class="altmetric-badge">
       <div class="altmetric-embed" data-badge-type="donut" data-doi=""></div>
-    </div>
-    <div class="dimensions-badge">
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
-      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
     </div>
   </div>
 </div>
