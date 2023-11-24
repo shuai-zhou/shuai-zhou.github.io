@@ -41,10 +41,12 @@ hero_darken: true
     float: right;
     width: 12%; /* Adjust the width as needed */
     text-align: right;
+    z-index: 999;
   }
   .altmetric-badge, .dimensions-badge {
     display: inline-block;
     vertical-align: top;
+    z-index: 999;
   }
   .publication-title {
     font-size: 1.2em;
