@@ -93,9 +93,10 @@ hero_darken: true
     <h6 class="publication-title">
       <a href="" target="_blank">How Do Environmental Stressors Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature</a>
     </h6>
-    <p class="publication-authors">Zhou, S. and Chi, G. (2023). <b><i>Demographic Research [accepted]</i></b></p>
+    <p class="publication-authors">Zhou, S. and Chi, G. (2024). <b><i>Demographic Research [accepted]</i></b></p>
     <div class="publication-links">
       <a href="/downloads/pubs/2023EnvMigMeta.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+      <a href="/downloads/codes/EnvMigMeta.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
     </div>
   </div>
   <div class="metrics-badges">
