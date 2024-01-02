@@ -93,7 +93,7 @@ hero_darken: true
     <h6 class="publication-title">
       <a href="" target="_blank">How Do Environmental Stressors Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature</a>
     </h6>
-    <p class="publication-authors">Zhou, S. and Chi, G. (2024). <b><i>Demographic Research [accepted]</i></b></p>
+    <p class="publication-authors">Zhou, S. and Chi, G. (2024). <b><i>Demographic Research</i></b></p>
     <div class="publication-links">
       <a href="/downloads/pubs/2023EnvMigMeta.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
       <a href="/downloads/codes/EnvMigMeta.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
@@ -102,10 +102,10 @@ hero_darken: true
   <div class="metrics-badges">
     <div class="dimensions-badge">
       <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
-      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+      <span class="__dimensions_badge_embed__" data-doi=" 10.4054/DemRes.2024.50.2" data-style="small_circle" data-badge-popover="right"></span>
   </div>
     <div class="altmetric-badge">
-      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=" 10.4054/DemRes.2024.50.2"></div>
     </div>
   </div>
 </div>
