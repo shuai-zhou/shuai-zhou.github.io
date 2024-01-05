@@ -91,7 +91,7 @@ hero_darken: true
 <div class="publication">
   <div class="publication-info">
     <h6 class="publication-title">
-      <a href="" target="_blank">How Do Environmental Stressors Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature</a>
+      <a href="https://www.demographic-research.org/articles/volume/50/2" target="_blank">How Do Environmental Stressors Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature</a>
     </h6>
     <p class="publication-authors">Zhou, S. and Chi, G. (2024). <b><i>Demographic Research</i></b></p>
     <div class="publication-links">
