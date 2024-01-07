@@ -224,7 +224,211 @@ hero_darken: true
   </div>
 </div>
 
-See <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv big-icon" style="font-size:21px"></i></a> for more publications.
+<h4 class="section-title">Under review</h4>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Subsidized Relocation and the Willingness to Move: Evidence from the Targeted Poverty Alleviation Project in China</a>
+    </h6>
+    <p class="publication-authors">Zhou, S., Ghi, G., Qiu, H. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Climate Impacts on Arctic Migration: Existing Evidence and Research Agenda</a>
+    </h6>
+    <p class="publication-authors">Chi, G., Zhou, S., Mucioki, M. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Transition Towards Sustainable Diets: Multi-objective Optimization of Dietary Pattern in China</a>
+    </h6>
+    <p class="publication-authors">Fu, H., Li, Y., Jiang, P. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
+
+<h4 class="section-title">Book review</h4>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ruso.12246" target="_blank">International Migration of China: Status, Policy and Social Responses to the Globalization of Migration" by Lu Miao and Huiyao Wang (Singapore: Springer, 2017. 135 pp. ISBN: 978‐981‐10‐6073‐1)</a>
+    </h6>
+    <p class="publication-authors">Zhou, S. (2018). <b><i>Rural Sociology</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2018InternationalMigChina.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.1111/ruso.12246" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi="10.1111/ruso.12246"></div>
+    </div>
+  </div>
+</div>
+
+<h4 class="section-title">Other publications</h4>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="https://pop.psu.edu/sites/pri/files/HSDropOutRatesBrief_RFCdocx.pdf" target="_blank">Pennsylvania Pomp and Circumstance: Trends in High School Drop Outs</a>
+    </h6>
+    <p class="publication-authors">Zhou, S. and Brooks, M.M. (2020). <b><i>Pennsylvania Population Network Briefs</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2020PennDropout.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
+
+<h4 class="section-title">Manuscripts in preparation</h4>
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Climate Variability and County-Level Migration in the United States, 1970 – 2010</a>
+    </h6>
+    <p class="publication-authors">Zhou, S., Chi, G., and Thiede, B.C.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020</a>
+    </h6>
+    <p class="publication-authors">Zhou, S. and Chi, G.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Persistently High Fertility in a Low Fertility Context: How Do America’s Amish Heterogeneously Respond to Fertility-Reducing Structural Incentives?</a>
+    </h6>
+    <p class="publication-authors">Anderson, C., Hayward, G.M., Zhou, S. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">The Factors Affecting Electric Vehicle Adoption in the United States, 2016 – 2021</a>
+    </h6>
+    <p class="publication-authors">Hou, Q., Zhou, S., and Chi, G.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
+
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
+      <a href="" target="_blank">Enhancing Urban Land Use Efficiency through Regional Economic Integration: A Network Synergy Analysis in the Yangtze River Delta</a>
+    </h6>
+    <p class="publication-authors">Sun, Y., Wu, L., Fu, H. et al.</p>
+    <div class="publication-links">
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
 
 
 </body>
