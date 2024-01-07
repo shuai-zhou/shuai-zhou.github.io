@@ -86,8 +86,12 @@ hero_darken: true
 </head>
 <body>
 
-<!-- PUBLICATION RECORD -->
+
 <h4 class="section-title">Peer-reviewed articles</h4>
+
+See <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv big-icon" style="font-size:20px"></i></a> for more publications.
+
+<!-- PUBLICATION RECORD -->
 <div class="publication">
   <div class="publication-info">
     <h6 class="publication-title">
@@ -224,7 +228,7 @@ hero_darken: true
   </div>
 </div>
 
-See <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-cv big-icon" style="font-size:21px"></i></a> for more publications.
+
 
 
 </body>

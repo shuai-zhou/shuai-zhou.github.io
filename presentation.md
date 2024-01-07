@@ -69,6 +69,10 @@ hero_darken: true
 <br>
 
 #### Conference posters
+<p align="justify"><b>Zhou, Shuai</b>, Chuan Liao, Ziqing Wei, and Guangqing Chi. 2024. "Beyond Pathogens: Unravelling Mortality through an Environmental Lens in the United States, 2000 – 2019." 2024 Annual Meeting of the Population Association of America, April 17 – 20, 2024, Columbus, OH. &nbsp;
+	<a href="" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+</p>
+
 <p align="justify"><b>Zhou, Shuai</b> and Guangqing Chi. 2022. "Migratory Responses to Environmental and Sociodemographic Factors in the United States: A Multi-level Analysis, 2010 – 2020." Population and Climate Change: The Defining Relationship of the 21st Century, November 30 – December 2, 2022, Vienna, Austria. &nbsp;
 	<a href="https://youtu.be/wUzW-CNox7E" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
 </p>
