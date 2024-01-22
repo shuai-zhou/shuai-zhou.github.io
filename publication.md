@@ -106,10 +106,10 @@ See <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-c
   <div class="metrics-badges">
     <div class="dimensions-badge">
       <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
-      <span class="__dimensions_badge_embed__" data-doi=" 10.4054/DemRes.2024.50.2" data-style="small_circle" data-badge-popover="right"></span>
+      <span class="__dimensions_badge_embed__" data-doi="10.4054/DemRes.2024.50.2" data-style="small_circle" data-badge-popover="right"></span>
   </div>
     <div class="altmetric-badge">
-      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=" 10.4054/DemRes.2024.50.2"></div>
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi="10.4054/DemRes.2024.50.2"></div>
     </div>
   </div>
 </div>
