@@ -118,6 +118,28 @@ See <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-c
 <div class="publication">
   <div class="publication-info">
     <h6 class="publication-title">
+      <a href="" target="_blank">Climate Impacts on Migration in the Arctic North America: Existing Evidence and Research Recommendations</a>
+    </h6>
+    <p class="publication-authors">Chi, G, Zhou, S., Mucioki, M. et al. (2024). <b><i>Regional Environmental Change [accepted]</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2024ArcMig.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi=""></div>
+    </div>
+  </div>
+</div>
+
+<!-- PUBLICATION RECORD -->
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
       <a href="https://link.springer.com/article/10.1007/s11113-023-09816-9" target="_blank">Population-Wide Vaccination Hesitancy among the Amish: A County-Level Study of COVID-19 Vaccine Adoption and Implications for Public Health Policy and Practice</a>
     </h6>
     <p class="publication-authors">Anderson, C., Zhou, S., and Chi, G. (2023). <b><i>Population Research and Policy Review</i></b></p>
