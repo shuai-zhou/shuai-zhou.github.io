@@ -70,7 +70,7 @@ hero_darken: true
 
 #### Conference posters
 <p align="justify"><b>Zhou, Shuai</b>, Chuan Liao, Ziqing Wei, and Guangqing Chi. 2024. "Beyond Pathogens: Unravelling Mortality through an Environmental Lens in the United States, 2000 – 2019." 2024 Annual Meeting of the Population Association of America, April 17 – 20, 2024, Columbus, OH. &nbsp;
-	<a href="" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+	<a href="/downloads/conferences/Poster_PAA2024.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
 <p align="justify">Anderson, <b>Shuai Zhou</b>, and Guangqing Chi. 2024. "Which Way Does Religion Pull, and Why? Variation in COVID-19 Vaccination Rates among Major U.S. Religions." 2024 Annual Meeting of the Population Association of America, April 17 – 20, 2024, Columbus, OH. &nbsp;
