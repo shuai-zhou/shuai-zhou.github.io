@@ -7,6 +7,13 @@ hero_darken: true
 ---
 
 #### Conference presentations
+<p align="justify"><b>Zhou, Shuai</b> Chuan Liao, Ziqing Wei, and Guangqing Chi. 2023. "Environmental Impacts on Cause-specific Mortality in the United States, 2000 – 2019." 2024 Annual Meeting of the Rural Sociological Society, July 24 – 30, 2024, Madison, WI. [Forthcoming] &nbsp;
+	<!-- <a href="/downloads/conferences/Present_PAA2023.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> -->
+</p>
+
+<p align="justify"><b>Zhou, Shuai</b> Chuan Liao, Elizabeth Ludwig-Borycz, Seongmin Shin, Yujin Lee, Ziqing Wei, Jana Turner, Yulu Chen, Rodina Araia, Florence Cheung, and Arun Agrawal. "A Comprehensive Synthesis and Future Prospects of Environmental Health Literature, 2010 – 2023." 2024 Annual Meeting of the Rural Sociological Society, July 24 – 30, 2024, Madison, WI. [Forthcoming] &nbsp;
+	<!-- <a href="/downloads/conferences/Present_PAA2023.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> -->
+</p>
 
 <p align="justify"><b>Zhou, Shuai</b> and Guangqing Chi. 2023. "Migratory Responses to Environmental Variability in the United States: A Multi-level Analysis of Microdata from the American Community Survey, 2010 – 2020." 2023 Annual Meeting of the Population Association of America, April 12 – 15, 2023, New Orleans, LA. &nbsp;
 	<a href="/downloads/conferences/Present_PAA2023.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
