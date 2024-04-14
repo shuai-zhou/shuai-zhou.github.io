@@ -73,6 +73,14 @@ hero_darken: true
 	<a href="" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
 </p>
 
+<p align="justify">Anderson, <b>Shuai Zhou</b>, and Guangqing Chi. 2024. "Which Way Does Religion Pull, and Why? Variation in COVID-19 Vaccination Rates among Major U.S. Religions." 2024 Annual Meeting of the Population Association of America, April 17 – 20, 2024, Columbus, OH. &nbsp;
+	<!-- <a href="/downloads/conferences/2021GPS2space.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a> -->
+</p>
+
+<p align="justify"><b>Zhou, Shuai</b>, Elizabeth Ludwig-Borycz, Seongmin Shin, Yujin Lee, Ziqing Wei, Jana Turner, Yulu Chen, Rodina Araia, Florence Cheung, and Arun Agrawal. 2024. "Navigating Environmental Health: A Comprehensive Synthesis and Future Prospects." 2024 Annual Cornell Center for Health Equity Symposium, April 11, 2024, Ithaca, NY. &nbsp;
+	<a href="/downloads/conferences/Poster_CornellCCHE2024.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+</p>
+
 <p align="justify"><b>Zhou, Shuai</b> and Guangqing Chi. 2022. "Migratory Responses to Environmental and Sociodemographic Factors in the United States: A Multi-level Analysis, 2010 – 2020." Population and Climate Change: The Defining Relationship of the 21st Century, November 30 – December 2, 2022, Vienna, Austria. &nbsp;
 	<a href="https://youtu.be/wUzW-CNox7E" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
 </p>
