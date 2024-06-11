@@ -95,6 +95,29 @@ See <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-c
 <div class="publication">
   <div class="publication-info">
     <h6 class="publication-title">
+      <a href="https://www.demographic-research.org/articles/volume/50/2" target="_blank">How Do Environmental Stressors Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature</a>
+    </h6>
+    <p class="publication-authors">Zhou, S. and Chi, G. (2024). <b><i>Demographic Research</i></b></p>
+    <div class="publication-links">
+      <a href="/downloads/pubs/2023EnvMigMeta.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
+      <a href="/downloads/codes/EnvMigMeta.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
+    </div>
+  </div>
+  <div class="metrics-badges">
+    <div class="dimensions-badge">
+      <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="10.4054/DemRes.2024.50.2" data-style="small_circle" data-badge-popover="right"></span>
+  </div>
+    <div class="altmetric-badge">
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi="10.4054/DemRes.2024.50.2"></div>
+    </div>
+  </div>
+</div>
+
+<!-- PUBLICATION RECORD -->
+<div class="publication">
+  <div class="publication-info">
+    <h6 class="publication-title">
       <a href="https://link.springer.com/article/10.1007/s10113-024-02212-9" target="_blank">Climate Impacts on Migration in the Arctic North America: Existing Evidence and Research Recommendations</a>
     </h6>
     <p class="publication-authors">Chi, G, Zhou, S., Mucioki, M. et al. (2024). <b><i>Regional Environmental Change</i></b></p>
@@ -117,21 +140,20 @@ See <a href="/downloads/cv.pdf" target="_blank" rel="noopener"><i class="ai ai-c
 <div class="publication">
   <div class="publication-info">
     <h6 class="publication-title">
-      <a href="https://www.demographic-research.org/articles/volume/50/2" target="_blank">How Do Environmental Stressors Influence Migration? A Meta-regression Analysis of the Environmental Migration Literature</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S235255092400126X" target="_blank">Transition Towards Sustainable Diets: Multi-objective Optimization of Dietary Pattern in China</a>
     </h6>
-    <p class="publication-authors">Zhou, S. and Chi, G. (2024). <b><i>Demographic Research</i></b></p>
+    <p class="publication-authors">Fu, H., Li, Y., Jiang, P. et al. (2024). <b><i>Sustainable Production and Consumption</i></b></p>
     <div class="publication-links">
-      <a href="/downloads/pubs/2023EnvMigMeta.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
-      <a href="/downloads/codes/EnvMigMeta.zip" target="_blank" rel="noopener"><iconify-icon icon="vscode-icons:file-type-stata"></iconify-icon></a>
+      <a href="/downloads/pubs/2024ChinaSustainableDiets.pdf" target="_blank" rel="noopener"><i class="far fa-file-pdf"></i></a>
     </div>
   </div>
   <div class="metrics-badges">
     <div class="dimensions-badge">
       <script type="text/javascript" src="https://badge.dimensions.ai/badge.js" async charset="utf-8"></script>
-      <span class="__dimensions_badge_embed__" data-doi="10.4054/DemRes.2024.50.2" data-style="small_circle" data-badge-popover="right"></span>
+      <span class="__dimensions_badge_embed__" data-doi="10.1016/j.spc.2024.04.029" data-style="small_circle" data-badge-popover="right"></span>
   </div>
     <div class="altmetric-badge">
-      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi="10.4054/DemRes.2024.50.2"></div>
+      <div class="altmetric-embed" data-badge-type="donut" data-badge-popover='right' data-doi="10.1016/j.spc.2024.04.029"></div>
     </div>
   </div>
 </div>
