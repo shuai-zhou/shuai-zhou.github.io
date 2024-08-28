@@ -1,2 +1,2 @@
-- Add two funded projects, including diagram and abstracts
-
+1. align navbar to the right
+2. update research themes
