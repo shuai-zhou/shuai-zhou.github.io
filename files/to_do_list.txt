@@ -1,2 +1,2 @@
 1. align navbar to the right
-2. click on the picture => open paper
+
