@@ -1,2 +1,0 @@
-1. align navbar to the right
-
