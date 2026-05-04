@@ -30,7 +30,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/cv.pdf</loc>
-<lastmod>2026-04-30T10:54:20-05:00</lastmod>
+<lastmod>2026-05-04T08:48:14-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/pubs/2021GPS2space.pdf</loc>
@@ -85,8 +85,12 @@
 <lastmod>2026-04-30T13:01:34-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/files/pubs/2026EngMigSP.pdf</loc>
+<loc>http://localhost:4000/files/pubs/2026EnvMigSP.pdf</loc>
 <lastmod>2026-04-30T10:05:53-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/files/pubs/2026EnvMortality.pdf</loc>
+<lastmod>2026-05-04T08:11:21-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/files/pubs/2026RiceFarming.pdf</loc>
@@ -115,5 +119,9 @@
 <url>
 <loc>http://localhost:4000/files/teach/StataIntro.pdf</loc>
 <lastmod>2024-08-19T13:34:06-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/googled95433881c0c3a87.html</loc>
+<lastmod>2023-01-25T12:40:44-06:00</lastmod>
 </url>
 </urlset>
